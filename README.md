@@ -1,4 +1,4 @@
-# Greens
+# Open spaces
 
 ## Getting started
 
