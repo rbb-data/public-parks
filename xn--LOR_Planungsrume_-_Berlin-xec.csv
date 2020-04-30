@@ -1,0 +1,448 @@
+﻿FID,gml_id,spatial_na,spatial_al,spatial_ty,PLRNAME,BZRNAME,PGRNAME,BEZNAME,DATUM,SHAPE_Length,SHAPE_Area
+1,re_planungsraum.01011101,01011101,Stülerstraße,Polygon,Stülerstraße,Tiergarten Süd,Zentrum,Mitte,2006-06-14T00:00:00,5535.90868035598,988823.105449888
+2,re_planungsraum.01011102,01011102,Großer Tiergarten,Polygon,Großer Tiergarten,Tiergarten Süd,Zentrum,Mitte,2006-06-14T00:00:00,17021.9745833552,8115685.43270627
+3,re_planungsraum.01011103,01011103,Lützowstraße,Polygon,Lützowstraße,Tiergarten Süd,Zentrum,Mitte,2006-06-14T00:00:00,5328.0045045678,1408008.72456432
+4,re_planungsraum.01011104,01011104,Körnerstraße,Polygon,Körnerstraße,Tiergarten Süd,Zentrum,Mitte,2006-06-14T00:00:00,3858.82928628945,911950.004203775
+5,re_planungsraum.01011105,01011105,Nördlicher Landwehrkanal,Polygon,Nördlicher Landwehrkanal,Tiergarten Süd,Zentrum,Mitte,2006-06-14T00:00:00,8430.06160672841,2519593.45852198
+6,re_planungsraum.01011201,01011201,Wilhelmstraße,Polygon,Wilhelmstraße,Regierungsviertel,Zentrum,Mitte,2006-06-14T00:00:00,5811.37049970993,1710450.6093557
+7,re_planungsraum.01011202,01011202,Unter den Linden Nord,Polygon,Unter den Linden Nord,Regierungsviertel,Zentrum,Mitte,2006-06-14T00:00:00,7253.39116247369,2008788.15946991
+8,re_planungsraum.01011203,01011203,Unter den Linden Süd,Polygon,Unter den Linden Süd,Regierungsviertel,Zentrum,Mitte,2006-06-14T00:00:00,6546.76069194777,1477709.84901664
+9,re_planungsraum.01011204,01011204,Leipziger Straße,Polygon,Leipziger Straße,Regierungsviertel,Zentrum,Mitte,2006-06-14T00:00:00,7719.55666816253,2060311.36339255
+10,re_planungsraum.01011301,01011301,Charitéviertel,Polygon,Charit¿viertel,Alexanderplatz,Zentrum,Mitte,2006-06-14T00:00:00,9995.18309907662,4548061.26626442
+11,re_planungsraum.01011302,01011302,Oranienburger Straße,Polygon,Oranienburger Straße,Alexanderplatz,Zentrum,Mitte,2006-06-14T00:00:00,7303.48173587796,2732764.87167068
+12,re_planungsraum.01011303,01011303,Alexanderplatzviertel,Polygon,Alexanderplatzviertel,Alexanderplatz,Zentrum,Mitte,2006-06-14T00:00:00,9796.94241676768,3672964.00959657
+13,re_planungsraum.01011304,01011304,Karl-Marx-Allee,Polygon,Karl-Marx-Allee,Alexanderplatz,Zentrum,Mitte,2006-06-14T00:00:00,6603.9646543898,2178256.13302872
+14,re_planungsraum.01011305,01011305,Heine-Viertel West,Polygon,Heine-Viertel West,Alexanderplatz,Zentrum,Mitte,2006-06-14T00:00:00,6653.28711141325,1736486.01321227
+15,re_planungsraum.01011306,01011306,Heine-Viertel Ost,Polygon,Heine-Viertel Ost,Alexanderplatz,Zentrum,Mitte,2006-06-14T00:00:00,6200.44974221463,1934944.62282506
+16,re_planungsraum.01011401,01011401,Invalidenstraße,Polygon,Invalidenstraße,Brunnenstraße Süd,Zentrum,Mitte,2006-06-14T00:00:00,9213.37521508537,3108815.1326473
+17,re_planungsraum.01011402,01011402,Arkonaplatz,Polygon,Arkonaplatz,Brunnenstraße Süd,Zentrum,Mitte,2006-06-14T00:00:00,5376.12157033382,1623890.50446072
+18,re_planungsraum.01022101,01022101,Huttenkiez,Polygon,Huttenkiez,Moabit West,Moabit,Mitte,2006-06-14T00:00:00,9921.47567586792,2173264.29131508
+19,re_planungsraum.01022102,01022102,Beusselkiez,Polygon,Beusselkiez,Moabit West,Moabit,Mitte,2006-06-14T00:00:00,3735.86085756424,638345.103769039
+20,re_planungsraum.01022103,01022103,Westhafen,Polygon,Westhafen,Moabit West,Moabit,Mitte,2006-06-14T00:00:00,13224.0665812373,4602389.52844017
+21,re_planungsraum.01022104,01022104,Emdener Straße,Polygon,Emdener Straße,Moabit West,Moabit,Mitte,2006-06-14T00:00:00,6005.96974721906,2095258.01903324
+22,re_planungsraum.01022105,01022105,Zwinglistraße,Polygon,Zwinglistraße,Moabit West,Moabit,Mitte,2006-06-14T00:00:00,3076.95659809051,449385.865148115
+23,re_planungsraum.01022106,01022106,Elberfelder Straße,Polygon,Elberfelder Straße,Moabit West,Moabit,Mitte,2006-06-14T00:00:00,5660.5833355956,1725180.90291021
+24,re_planungsraum.01022201,01022201,Stephankiez,Polygon,Stephankiez,Moabit Ost,Moabit,Mitte,2006-06-14T00:00:00,6707.99692037343,2417420.92081064
+25,re_planungsraum.01022202,01022202,Heidestraße,Polygon,Heidestraße,Moabit Ost,Moabit,Mitte,2006-06-14T00:00:00,6261.26465942284,1847090.13227725
+26,re_planungsraum.01022203,01022203,Lübecker Straße,Polygon,Lübecker Straße,Moabit Ost,Moabit,Mitte,2006-06-14T00:00:00,4008.72845513467,877440.464301143
+27,re_planungsraum.01022204,01022204,Thomasiusstraße,Polygon,Thomasiusstraße,Moabit Ost,Moabit,Mitte,2006-06-14T00:00:00,5239.69820968083,1493980.48485082
+28,re_planungsraum.01022205,01022205,Zillesiedlung,Polygon,Zillesiedlung,Moabit Ost,Moabit,Mitte,2006-06-14T00:00:00,2989.48694306507,470438.151771534
+29,re_planungsraum.01022206,01022206,Lüneburger Straße,Polygon,Lüneburger Straße,Moabit Ost,Moabit,Mitte,2006-06-14T00:00:00,7717.06926466506,2003144.59513053
+30,re_planungsraum.01022207,01022207,Hansaviertel,Polygon,Hansaviertel,Moabit Ost,Moabit,Mitte,2006-06-14T00:00:00,6073.27251480731,1441518.39114836
+31,re_planungsraum.01033101,01033101,Soldiner Straße,Polygon,Soldiner Straße,Osloer Straße,Gesundbrunnen,Mitte,2006-06-14T00:00:00,9930.03818497885,4613178.2174159
+32,re_planungsraum.01033102,01033102,Gesundbrunnen,Polygon,Gesundbrunnen,Osloer Straße,Gesundbrunnen,Mitte,2006-06-14T00:00:00,5266.29682482904,1776842.42253671
+33,re_planungsraum.01033201,01033201,Brunnenstraße,Polygon,Brunnenstraße,Brunnenstraße Nord,Gesundbrunnen,Mitte,2006-06-14T00:00:00,7054.65153501829,2090675.99179477
+34,re_planungsraum.01033202,01033202,Humboldthain Süd,Polygon,Humboldthain Süd,Brunnenstraße Nord,Gesundbrunnen,Mitte,2006-06-14T00:00:00,7094.05571507517,2981705.35316049
+35,re_planungsraum.01033203,01033203,Humboldthain Nordwest,Polygon,Humboldthain Nordwest,Brunnenstraße Nord,Gesundbrunnen,Mitte,2006-06-14T00:00:00,11405.073028355,3886020.52043281
+36,re_planungsraum.01044101,01044101,Rehberge,Polygon,Rehberge,Parkviertel,Wedding,Mitte,2006-06-14T00:00:00,16070.8357484144,13117782.6272488
+37,re_planungsraum.01044102,01044102,Schillerpark,Polygon,Schillerpark,Parkviertel,Wedding,Mitte,2006-06-14T00:00:00,10080.1619349135,4679818.96546535
+38,re_planungsraum.01044103,01044103,Westliche Müllerstraße,Polygon,Westliche Müllerstraße,Parkviertel,Wedding,Mitte,2006-06-14T00:00:00,4913.35439780139,1435567.6573839
+39,re_planungsraum.01044201,01044201,Reinickendorfer Straße,Polygon,Reinickendorfer Straße,Wedding Zentrum,Wedding,Mitte,2006-06-14T00:00:00,7809.27097345408,2857499.0760586
+40,re_planungsraum.01044202,01044202,Sparrplatz,Polygon,Sparrplatz,Wedding Zentrum,Wedding,Mitte,2006-06-14T00:00:00,6000.69415499704,1680520.0472126
+41,re_planungsraum.01044203,01044203,Leopoldplatz,Polygon,Leopoldplatz,Wedding Zentrum,Wedding,Mitte,2006-06-14T00:00:00,6408.62696330135,2193418.78907632
+42,re_planungsraum.02010101,02010101,Askanischer Platz,Polygon,Askanischer Platz,Südliche Friedrichstadt,Kreuzberg Nord,Friedrichshain-Kreuzberg,2006-06-14T00:00:00,5835.45832741152,1906971.22611028
+43,re_planungsraum.02010102,02010102,Mehringplatz,Polygon,Mehringplatz,Südliche Friedrichstadt,Kreuzberg Nord,Friedrichshain-Kreuzberg,2006-06-14T00:00:00,8157.11582429738,2793418.7478221
+44,re_planungsraum.02010103,02010103,Moritzplatz,Polygon,Moritzplatz,Südliche Friedrichstadt,Kreuzberg Nord,Friedrichshain-Kreuzberg,2006-06-14T00:00:00,8222.36772747184,2147784.20886055
+45,re_planungsraum.02010104,02010104,Wassertorplatz,Polygon,Wassertorplatz,Südliche Friedrichstadt,Kreuzberg Nord,Friedrichshain-Kreuzberg,2006-06-14T00:00:00,5934.08253640481,1047860.54769341
+46,re_planungsraum.02020201,02020201,Gleisdreieck/Entwicklungsgebiet,Polygon,Gleisdreieck/Entwicklungsgebiet,Tempelhofer Vorstadt,Kreuzberg Süd,Friedrichshain-Kreuzberg,2006-06-14T00:00:00,5996.87176476623,1986274.26268913
+47,re_planungsraum.02020202,02020202,Rathaus Yorckstraße,Polygon,Rathaus Yorckstraße,Tempelhofer Vorstadt,Kreuzberg Süd,Friedrichshain-Kreuzberg,2006-06-14T00:00:00,4328.83968950693,1053276.50253011
+48,re_planungsraum.02020203,02020203,Viktoriapark,Polygon,Viktoriapark,Tempelhofer Vorstadt,Kreuzberg Süd,Friedrichshain-Kreuzberg,2006-06-14T00:00:00,6310.63978077232,2001448.53509192
+49,re_planungsraum.02020204,02020204,Urbanstraße,Polygon,Urbanstraße,Tempelhofer Vorstadt,Kreuzberg Süd,Friedrichshain-Kreuzberg,2006-06-14T00:00:00,7091.15414687048,2485301.86037408
+50,re_planungsraum.02020205,02020205,Chamissokiez,Polygon,Chamissokiez,Tempelhofer Vorstadt,Kreuzberg Süd,Friedrichshain-Kreuzberg,2006-06-14T00:00:00,7382.80308658849,2630797.76978293
+51,re_planungsraum.02020206,02020206,Graefekiez,Polygon,Graefekiez,Tempelhofer Vorstadt,Kreuzberg Süd,Friedrichshain-Kreuzberg,2006-06-14T00:00:00,7965.6567496774,2650862.81556272
+52,re_planungsraum.02030301,02030301,Oranienplatz,Polygon,Oranienplatz,Nördliche Luisenstadt,Kreuzberg Ost,Friedrichshain-Kreuzberg,2006-06-14T00:00:00,5728.41521261088,1295606.1478374
+53,re_planungsraum.02030302,02030302,Lausitzer Platz,Polygon,Lausitzer Platz,Nördliche Luisenstadt,Kreuzberg Ost,Friedrichshain-Kreuzberg,2006-06-14T00:00:00,7002.8965172321,2215274.56745622
+54,re_planungsraum.02030401,02030401,Reichenberger Straße,Polygon,Reichenberger Straße,Südliche Luisenstadt,Kreuzberg Ost,Friedrichshain-Kreuzberg,2006-06-14T00:00:00,7152.50441918191,2512060.82486035
+55,re_planungsraum.02030402,02030402,Wrangelkiez,Polygon,Wrangelkiez,Südliche Luisenstadt,Kreuzberg Ost,Friedrichshain-Kreuzberg,2006-06-14T00:00:00,5951.4456678708,1419032.04263337
+56,re_planungsraum.02040501,02040501,Barnimkiez,Polygon,Barnimkiez,Karl-Marx-Allee Nord,Friedrichshain West,Friedrichshain-Kreuzberg,2006-06-14T00:00:00,8218.32465388743,2538987.59250015
+57,re_planungsraum.02040502,02040502,Friedenstraße,Polygon,Friedenstraße,Karl-Marx-Allee Nord,Friedrichshain West,Friedrichshain-Kreuzberg,2006-06-14T00:00:00,6275.39689451268,1818286.35823421
+58,re_planungsraum.02040503,02040503,Richard-Sorge-Viertel,Polygon,Richard-Sorge-Viertel,Karl-Marx-Allee Nord,Friedrichshain West,Friedrichshain-Kreuzberg,2006-06-14T00:00:00,6509.92407873192,1495764.08011377
+59,re_planungsraum.02040701,02040701,Andreasviertel,Polygon,Andreasviertel,Karl-Marx-Allee Süd,Friedrichshain West,Friedrichshain-Kreuzberg,2006-08-04T00:00:00,6957.28404674026,2638080.94681149
+60,re_planungsraum.02040702,02040702,Weberwiese,Polygon,Weberwiese,Karl-Marx-Allee Süd,Friedrichshain West,Friedrichshain-Kreuzberg,2006-08-04T00:00:00,5304.18684018394,1460092.2280451
+61,re_planungsraum.02040703,02040703,Wriezener Bahnhof/Entwicklungsgebiet,Polygon,Wriezener Bahnhof/Entwicklungsgebiet,Karl-Marx-Allee Süd,Friedrichshain West,Friedrichshain-Kreuzberg,2006-08-04T00:00:00,7617.38795180923,2394096.31932796
+62,re_planungsraum.02050601,02050601,Hausburgviertel,Polygon,Hausburgviertel,Frankfurter Allee Nord,Friedrichshain Ost,Friedrichshain-Kreuzberg,2008-04-09T00:00:00,4070.21083847901,834591.530955088
+63,re_planungsraum.02050602,02050602,Samariterviertel,Polygon,Samariterviertel,Frankfurter Allee Nord,Friedrichshain Ost,Friedrichshain-Kreuzberg,2006-08-04T00:00:00,7513.71847814095,2616002.30290726
+64,re_planungsraum.02050801,02050801,Traveplatz,Polygon,Traveplatz,Frankfurter Allee Süd FK,Friedrichshain Ost,Friedrichshain-Kreuzberg,2006-06-14T00:00:00,7255.22414323095,2112564.72431704
+65,re_planungsraum.02050802,02050802,Boxhagener Platz,Polygon,Boxhagener Platz,Frankfurter Allee Süd FK,Friedrichshain Ost,Friedrichshain-Kreuzberg,2006-06-14T00:00:00,6835.46821485832,2245608.51506154
+66,re_planungsraum.02050803,02050803,Stralauer Kiez,Polygon,Stralauer Kiez,Frankfurter Allee Süd FK,Friedrichshain Ost,Friedrichshain-Kreuzberg,2006-06-14T00:00:00,8911.44736999077,3651432.80737532
+67,re_planungsraum.02050804,02050804,Stralauer Halbinsel,Polygon,Stralauer Halbinsel,Frankfurter Allee Süd FK,Friedrichshain Ost,Friedrichshain-Kreuzberg,2006-06-14T00:00:00,8856.7574657909,3007924.4472917
+68,re_planungsraum.03010101,03010101,Bucher Forst,Polygon,Bucher Forst,Buch,Buch,Pankow,2006-06-14T00:00:00,36653.4211020602,35616774.8362972
+69,re_planungsraum.03010102,03010102,Buch,Polygon,Buch,Buch,Buch,Pankow,2006-06-14T00:00:00,16983.7148569702,11831792.852779
+70,re_planungsraum.03010104,03010104,Lietzengraben,Polygon,Lietzengraben,Buch,Buch,Pankow,2006-06-14T00:00:00,18652.658097518,14859049.0854834
+71,re_planungsraum.03020203,03020203,Blankenfelde,Polygon,Blankenfelde,Blankenfelde/Niederschönhausen,Nördliches Pankow,Pankow,2006-06-14T00:00:00,31749.6506025312,35400362.028921
+72,re_planungsraum.03020209,03020209,Niederschönhausen,Polygon,Niederschönhausen,Blankenfelde/Niederschönhausen,Nördliches Pankow,Pankow,2006-06-14T00:00:00,16413.601669216,9508047.03553078
+73,re_planungsraum.03020210,03020210,Herthaplatz,Polygon,Herthaplatz,Blankenfelde/Niederschönhausen,Nördliches Pankow,Pankow,2006-06-14T00:00:00,11771.354510597,8337004.03505442
+74,re_planungsraum.03020307,03020307,Buchholz,Polygon,Buchholz,Buchholz,Nördliches Pankow,Pankow,2006-06-14T00:00:00,17807.0540672689,17511446.6550357
+75,re_planungsraum.03030405,03030405,Karow Nord,Polygon,Karow Nord,Karow,Nördliches Weißensee,Pankow,2006-06-14T00:00:00,9808.63843869108,4518360.97079904
+76,re_planungsraum.03030406,03030406,Alt-Karow,Polygon,Alt-Karow,Karow,Nördliches Weißensee,Pankow,2006-06-14T00:00:00,15799.0893434348,13377213.757685
+77,re_planungsraum.03030711,03030711,Blankenburg,Polygon,Blankenburg,Blankenburg/Heinersdorf/Märchenland,Nördliches Weißensee,Pankow,2008-04-09T00:00:00,20675.8279186719,15914231.9334218
+78,re_planungsraum.03030715,03030715,Heinersdorf,Polygon,Heinersdorf,Blankenburg/Heinersdorf/Märchenland,Nördliches Weißensee,Pankow,2008-04-09T00:00:00,14297.4213059323,10561633.9559307
+79,re_planungsraum.03030716,03030716,Märchenland,Polygon,Märchenland,Blankenburg/Heinersdorf/Märchenland,Nördliches Weißensee,Pankow,2008-04-09T00:00:00,22493.3372547127,15755326.3717108
+80,re_planungsraum.03040508,03040508,Rosenthal,Polygon,Rosenthal,Schönholz/Wilhelmsruh/Rosenthal,Südliches Pankow,Pankow,2008-04-09T00:00:00,11471.288069194,4866244.36734967
+81,re_planungsraum.03040512,03040512,Wilhelmsruh,Polygon,Wilhelmsruh,Schönholz/Wilhelmsruh/Rosenthal,Südliches Pankow,Pankow,2008-04-09T00:00:00,13328.5619966296,5867022.70743927
+82,re_planungsraum.03040513,03040513,Schönholz,Polygon,Schönholz,Schönholz/Wilhelmsruh/Rosenthal,Südliches Pankow,Pankow,2008-04-09T00:00:00,12839.7920339278,5163127.14783429
+83,re_planungsraum.03040614,03040614,Pankow Zentrum,Polygon,Pankow Zentrum,Pankow Zentrum,Südliches Pankow,Pankow,2008-04-09T00:00:00,19051.2595383324,10651132.9387032
+84,re_planungsraum.03040818,03040818,Pankow Süd,Polygon,Pankow Süd,Pankow Süd,Südliches Pankow,Pankow,2008-04-09T00:00:00,16878.6252982201,8188904.98218076
+85,re_planungsraum.03050919,03050919,Gustav-Adolf-Straße,Polygon,Gustav-Adolf-Straße,Weißensee,Südliches Weißensee,Pankow,2006-06-14T00:00:00,7061.73813324969,2680186.76720256
+86,re_planungsraum.03050920,03050920,Weißer See,Polygon,Weißer See,Weißensee,Südliches Weißensee,Pankow,2006-06-14T00:00:00,6887.12532077693,2847692.45324493
+87,re_planungsraum.03050923,03050923,Weißenseer Spitze,Polygon,Weißenseer Spitze,Weißensee,Südliches Weißensee,Pankow,2006-06-14T00:00:00,5461.48801226981,1687311.83676315
+88,re_planungsraum.03050924,03050924,Behaimstraße,Polygon,Behaimstraße,Weißensee,Südliches Weißensee,Pankow,2006-06-14T00:00:00,4942.5150365272,1185663.5563957
+89,re_planungsraum.03050925,03050925,Komponistenviertel Weißensee,Polygon,Komponistenviertel Weißensee,Weißensee,Südliches Weißensee,Pankow,2006-06-14T00:00:00,7851.8636018352,3023171.12618472
+90,re_planungsraum.03051017,03051017,Rennbahnstraße,Polygon,Rennbahnstraße,Weißensee Ost,Südliches Weißensee,Pankow,2006-06-14T00:00:00,15575.6122444009,6600929.62231506
+91,re_planungsraum.03051021,03051021,Buschallee,Polygon,Buschallee,Weißensee Ost,Südliches Weißensee,Pankow,2006-06-14T00:00:00,5913.81975813119,1552910.62547646
+92,re_planungsraum.03051022,03051022,Hansastraße,Polygon,Hansastraße,Weißensee Ost,Südliches Weißensee,Pankow,2006-06-14T00:00:00,6113.10047120003,1866545.58274323
+93,re_planungsraum.03061126,03061126,Arnimplatz,Polygon,Arnimplatz,Prenzlauer Berg Nordwest,Nördlicher Prenzlauer Berg,Pankow,2006-06-14T00:00:00,6995.34541667498,2761845.89975378
+94,re_planungsraum.03061131,03061131,Falkplatz,Polygon,Falkplatz,Prenzlauer Berg Nordwest,Nördlicher Prenzlauer Berg,Pankow,2006-06-14T00:00:00,6874.65922754758,2452954.26375647
+95,re_planungsraum.03061227,03061227,Humannplatz,Polygon,Humannplatz,Prenzlauer Berg Nord,Nördlicher Prenzlauer Berg,Pankow,2006-06-14T00:00:00,5793.60962066512,1873300.639303
+96,re_planungsraum.03061228,03061228,Erich-Weinert-Straße,Polygon,Erich-Weinert-Straße,Prenzlauer Berg Nord,Nördlicher Prenzlauer Berg,Pankow,2006-06-14T00:00:00,6726.37004259905,2608357.79429693
+97,re_planungsraum.03061332,03061332,Helmholtzplatz,Polygon,Helmholtzplatz,Helmholtzplatz,Nördlicher Prenzlauer Berg,Pankow,2006-06-14T00:00:00,5826.45404639512,1926675.57928666
+98,re_planungsraum.03061429,03061429,Greifswalder Straße,Polygon,Greifswalder Straße,Prenzlauer Berg Ost,Nördlicher Prenzlauer Berg,Pankow,2006-06-14T00:00:00,6312.41364777477,2304627.2325403
+99,re_planungsraum.03061430,03061430,Volkspark Prenzlauer Berg,Polygon,Volkspark Prenzlauer Berg,Prenzlauer Berg Ost,Nördlicher Prenzlauer Berg,Pankow,2006-06-14T00:00:00,7407.71220159546,3269614.00804467
+100,re_planungsraum.03061434,03061434,Anton-Saefkow-Park,Polygon,Anton-Saefkow-Park,Prenzlauer Berg Ost,Nördlicher Prenzlauer Berg,Pankow,2006-06-14T00:00:00,5253.62422639525,1487157.68421325
+101,re_planungsraum.03061435,03061435,Conrad-Blenkle-Straße,Polygon,Conrad-Blenkle-Straße,Prenzlauer Berg Ost,Nördlicher Prenzlauer Berg,Pankow,2006-06-14T00:00:00,5162.83020242617,1490030.74207484
+102,re_planungsraum.03061441,03061441,Eldenaer Straße,Polygon,Eldenaer Straße,Prenzlauer Berg Ost,Nördlicher Prenzlauer Berg,Pankow,2006-06-14T00:00:00,5984.087786544,1556696.01555818
+103,re_planungsraum.03071536,03071536,Teutoburger Platz,Polygon,Teutoburger Platz,Prenzlauer Berg Südwest,Südlicher Prenzlauer Berg,Pankow,2006-06-14T00:00:00,6021.00202324658,1481393.78558761
+104,re_planungsraum.03071537,03071537,Kollwitzplatz,Polygon,Kollwitzplatz,Prenzlauer Berg Südwest,Südlicher Prenzlauer Berg,Pankow,2006-06-14T00:00:00,6834.40791979605,2215257.36435218
+105,re_planungsraum.03071633,03071633,Thälmannpark,Polygon,Thälmannpark,Prenzlauer Berg Süd,Südlicher Prenzlauer Berg,Pankow,2006-06-14T00:00:00,4431.04458267819,1182930.14583499
+106,re_planungsraum.03071638,03071638,Winsstraße,Polygon,Winsstraße,Prenzlauer Berg Süd,Südlicher Prenzlauer Berg,Pankow,2006-06-14T00:00:00,6572.77429134666,1750239.89715505
+107,re_planungsraum.03071639,03071639,Bötzowstraße,Polygon,Bötzowstraße,Prenzlauer Berg Süd,Südlicher Prenzlauer Berg,Pankow,2006-06-14T00:00:00,5534.70467832521,1540121.24015443
+108,re_planungsraum.04010101,04010101,Jungfernheide,Polygon,Jungfernheide,Charlottenburg Nord,CW 1,Charlottenburg-Wilmersdorf,2006-06-14T00:00:00,14082.3072907474,8279657.29918365
+109,re_planungsraum.04010102,04010102,Plötzensee,Polygon,Plötzensee,Charlottenburg Nord,CW 1,Charlottenburg-Wilmersdorf,2006-06-14T00:00:00,10813.8606274193,5852750.69734537
+110,re_planungsraum.04010103,04010103,Paul-Hertz-Siedlung,Polygon,Paul-Hertz-Siedlung,Charlottenburg Nord,CW 1,Charlottenburg-Wilmersdorf,2006-06-14T00:00:00,10671.5474897296,1500577.06282663
+111,re_planungsraum.04020204,04020204,Olympiagelände,Polygon,Olympiagelände,Heerstrasse,CW 2,Charlottenburg-Wilmersdorf,2006-06-14T00:00:00,12071.866069863,7045897.61210857
+112,re_planungsraum.04020205,04020205,Siedlung Ruhleben,Polygon,Siedlung Ruhleben,Heerstrasse,CW 2,Charlottenburg-Wilmersdorf,2006-06-14T00:00:00,7510.82591690717,1753417.05691285
+113,re_planungsraum.04020206,04020206,Angerburger Allee,Polygon,Angerburger Allee,Heerstrasse,CW 2,Charlottenburg-Wilmersdorf,2006-06-14T00:00:00,4387.92385420536,973935.505294182
+114,re_planungsraum.04020207,04020207,Flatowallee,Polygon,Flatowallee,Heerstrasse,CW 2,Charlottenburg-Wilmersdorf,2006-06-14T00:00:00,8711.24585619506,2636217.15843653
+115,re_planungsraum.04020208,04020208,Kranzallee,Polygon,Kranzallee,Heerstrasse,CW 2,Charlottenburg-Wilmersdorf,2006-06-14T00:00:00,12567.8909710818,3997269.74757176
+116,re_planungsraum.04020209,04020209,Eichkamp,Polygon,Eichkamp,Heerstrasse,CW 2,Charlottenburg-Wilmersdorf,2006-06-14T00:00:00,10101.4526349249,4329067.97502688
+117,re_planungsraum.04020310,04020310,Park Ruhwald,Polygon,Park Ruhwald,Westend,CW 2,Charlottenburg-Wilmersdorf,2006-06-14T00:00:00,12191.5870319224,5512144.94861026
+118,re_planungsraum.04020311,04020311,Reichsstraße,Polygon,Reichsstraße,Westend,CW 2,Charlottenburg-Wilmersdorf,2006-06-14T00:00:00,11821.4791294835,4329814.53293214
+119,re_planungsraum.04020312,04020312,Branitzer Platz,Polygon,Branitzer Platz,Westend,CW 2,Charlottenburg-Wilmersdorf,2006-06-14T00:00:00,5778.56304069022,1925778.60743389
+120,re_planungsraum.04020313,04020313,Königin-Elisabeth-Straße,Polygon,Königin-Elisabeth-Straße,Westend,CW 2,Charlottenburg-Wilmersdorf,2006-06-14T00:00:00,6237.03034668551,1770773.60949757
+121,re_planungsraum.04020314,04020314,Messegelände,Polygon,Messegelände,Westend,CW 2,Charlottenburg-Wilmersdorf,2006-06-14T00:00:00,7156.15728425181,2418580.72761182
+122,re_planungsraum.04030415,04030415,Schloßgarten,Polygon,Schloßgarten,Schloß Charlottenburg,CW 3,Charlottenburg-Wilmersdorf,2006-06-14T00:00:00,8520.62801647741,3391053.98159003
+123,re_planungsraum.04030416,04030416,Klausenerplatz,Polygon,Klausenerplatz,Schloß Charlottenburg,CW 3,Charlottenburg-Wilmersdorf,2006-06-14T00:00:00,4635.99653912696,1289663.19178379
+124,re_planungsraum.04030417,04030417,Schloßstraße,Polygon,Schloßstraße,Schloß Charlottenburg,CW 3,Charlottenburg-Wilmersdorf,2006-06-14T00:00:00,6793.86042531125,1516887.12151428
+125,re_planungsraum.04030518,04030518,Tegeler Weg,Polygon,Tegeler Weg,Mierendorffplatz,CW 3,Charlottenburg-Wilmersdorf,2006-06-14T00:00:00,4865.47419741011,1399523.39357106
+126,re_planungsraum.04030519,04030519,Kaiserin-Augusta-Allee,Polygon,Kaiserin-Augusta-Allee,Mierendorffplatz,CW 3,Charlottenburg-Wilmersdorf,2006-06-14T00:00:00,12265.6689085791,3710140.27810765
+127,re_planungsraum.04030620,04030620,Alt-Lietzow,Polygon,Alt-Lietzow,Otto-Suhr-Allee,CW 3,Charlottenburg-Wilmersdorf,2006-06-14T00:00:00,5649.69605470602,1445323.47393198
+128,re_planungsraum.04030621,04030621,Spreestadt,Polygon,Spreestadt,Otto-Suhr-Allee,CW 3,Charlottenburg-Wilmersdorf,2006-06-14T00:00:00,6813.60724273103,1925128.66739059
+129,re_planungsraum.04030622,04030622,Richard-Wagner-Straße,Polygon,Richard-Wagner-Straße,Otto-Suhr-Allee,CW 3,Charlottenburg-Wilmersdorf,2006-06-14T00:00:00,5377.27706033659,1484622.74380833
+130,re_planungsraum.04030623,04030623,Ernst-Reuter-Platz,Polygon,Ernst-Reuter-Platz,Otto-Suhr-Allee,CW 3,Charlottenburg-Wilmersdorf,2006-06-14T00:00:00,8762.46114441261,2584372.1457095
+131,re_planungsraum.04030724,04030724,Lietzensee,Polygon,Lietzensee,Neue Kantstraße,CW 3,Charlottenburg-Wilmersdorf,2006-06-14T00:00:00,6000.28274817306,1708112.60793909
+132,re_planungsraum.04030725,04030725,Amtsgerichtsplatz,Polygon,Amtsgerichtsplatz,Neue Kantstraße,CW 3,Charlottenburg-Wilmersdorf,2006-06-14T00:00:00,5743.42569367464,1390216.95021448
+133,re_planungsraum.04030726,04030726,Droysenstraße,Polygon,Droysenstraße,Neue Kantstraße,CW 3,Charlottenburg-Wilmersdorf,2006-06-14T00:00:00,4254.92513363237,912965.363036997
+134,re_planungsraum.04030827,04030827,Karl-August-Platz,Polygon,Karl-August-Platz,Kantstraße,CW 3,Charlottenburg-Wilmersdorf,2006-06-14T00:00:00,5160.4238702609,1577759.24678335
+135,re_planungsraum.04030828,04030828,Savignyplatz,Polygon,Savignyplatz,Kantstraße,CW 3,Charlottenburg-Wilmersdorf,2006-06-14T00:00:00,5625.76087330726,1447958.49007409
+136,re_planungsraum.04030929,04030929,Hindemithplatz,Polygon,Hindemithplatz,Kurfürstendamm,CW 3,Charlottenburg-Wilmersdorf,2006-06-14T00:00:00,3763.83875094384,807342.51042719
+137,re_planungsraum.04030930,04030930,George-Grosz-Platz,Polygon,George-Grosz-Platz,Kurfürstendamm,CW 3,Charlottenburg-Wilmersdorf,2006-06-14T00:00:00,4535.56658613483,1252901.53362775
+138,re_planungsraum.04030931,04030931,Breitscheidplatz,Polygon,Breitscheidplatz,Kurfürstendamm,CW 3,Charlottenburg-Wilmersdorf,2006-06-14T00:00:00,6491.71690730881,1626615.10162008
+139,re_planungsraum.04031032,04031032,Halensee,Polygon,Halensee,Halensee,CW 3,Charlottenburg-Wilmersdorf,2006-06-14T00:00:00,8701.74411041653,3305839.14917966
+140,re_planungsraum.04041133,04041133,Güterbahnhof Grunewald,Polygon,Güterbahnhof Grunewald,Grunewald,CW 4,Charlottenburg-Wilmersdorf,2006-06-14T00:00:00,7012.45507901697,1464081.90132345
+141,re_planungsraum.04041134,04041134,Bismarckallee,Polygon,Bismarckallee,Grunewald,CW 4,Charlottenburg-Wilmersdorf,2006-06-14T00:00:00,9810.17616191711,3846102.23139965
+142,re_planungsraum.04041135,04041135,Hundekehle,Polygon,Hundekehle,Grunewald,CW 4,Charlottenburg-Wilmersdorf,2006-06-14T00:00:00,12377.1044635283,3035580.24864862
+143,re_planungsraum.04041136,04041136,Hagenplatz,Polygon,Hagenplatz,Grunewald,CW 4,Charlottenburg-Wilmersdorf,2006-06-14T00:00:00,7364.74016116567,2539538.42921232
+144,re_planungsraum.04041137,04041137,Flinsberger Platz,Polygon,Flinsberger Platz,Grunewald,CW 4,Charlottenburg-Wilmersdorf,2006-06-14T00:00:00,8525.38770021991,2462851.50602594
+145,re_planungsraum.04041238,04041238,Kissinger Straße,Polygon,Kissinger Straße,Schmargendorf,CW 4,Charlottenburg-Wilmersdorf,2006-06-14T00:00:00,7429.37698846694,1740870.45733816
+146,re_planungsraum.04041239,04041239,Stadion Wilmersdorf,Polygon,Stadion Wilmersdorf,Schmargendorf,CW 4,Charlottenburg-Wilmersdorf,2006-06-14T00:00:00,7026.15048066045,2281524.4697689
+147,re_planungsraum.04041240,04041240,Messelpark,Polygon,Messelpark,Schmargendorf,CW 4,Charlottenburg-Wilmersdorf,2006-06-14T00:00:00,4823.88670434693,1465779.11084464
+148,re_planungsraum.04041241,04041241,Breite Straße,Polygon,Breite Straße,Schmargendorf,CW 4,Charlottenburg-Wilmersdorf,2006-06-14T00:00:00,6917.55362906971,1795343.82103758
+149,re_planungsraum.04041342,04041342,Schlangenbader Straße,Polygon,Schlangenbader Straße,Wiesbadener Straße,CW 4,Charlottenburg-Wilmersdorf,2006-06-14T00:00:00,4812.34100656702,950317.221413148
+150,re_planungsraum.04041343,04041343,Binger Straße,Polygon,Binger Straße,Wiesbadener Straße,CW 4,Charlottenburg-Wilmersdorf,2006-06-14T00:00:00,5238.68642230393,1138609.31872279
+151,re_planungsraum.04041344,04041344,Rüdesheimer Platz,Polygon,Rüdesheimer Platz,Wiesbadener Straße,CW 4,Charlottenburg-Wilmersdorf,2006-06-14T00:00:00,6832.82720307253,1614582.89203013
+152,re_planungsraum.04051445,04051445,Eisenzahnstraße,Polygon,Eisenzahnstraße,Düsseldorfer Straße,CW 5,Charlottenburg-Wilmersdorf,2006-06-14T00:00:00,6152.84102777242,2038590.39764541
+153,re_planungsraum.04051446,04051446,Preußenpark,Polygon,Preußenpark,Düsseldorfer Straße,CW 5,Charlottenburg-Wilmersdorf,2006-06-14T00:00:00,5417.86400866097,1685506.04949734
+154,re_planungsraum.04051447,04051447,Ludwigkirchplatz,Polygon,Ludwigkirchplatz,Düsseldorfer Straße,CW 5,Charlottenburg-Wilmersdorf,2006-06-14T00:00:00,4193.39033886892,847971.392051612
+155,re_planungsraum.04051448,04051448,Schaperstraße,Polygon,Schaperstraße,Düsseldorfer Straße,CW 5,Charlottenburg-Wilmersdorf,2006-06-14T00:00:00,5895.82120425766,1591641.37240958
+156,re_planungsraum.04051549,04051549,Rathaus Wilmersdorf,Polygon,Rathaus Wilmersdorf,Barstraße,CW 5,Charlottenburg-Wilmersdorf,2006-06-14T00:00:00,6409.70983957568,1799381.1184391
+157,re_planungsraum.04051550,04051550,Leon-Jessel-Platz,Polygon,Leon-Jessel-Platz,Barstraße,CW 5,Charlottenburg-Wilmersdorf,2006-06-14T00:00:00,3738.52471350446,669464.980676089
+158,re_planungsraum.04051551,04051551,Brabanter Platz,Polygon,Brabanter Platz,Barstraße,CW 5,Charlottenburg-Wilmersdorf,2006-06-14T00:00:00,5086.5806188478,1131232.78956448
+159,re_planungsraum.04051652,04051652,Nikolsburger Platz,Polygon,Nikolsburger Platz,Volkspark Wilmersdorf,CW 5,Charlottenburg-Wilmersdorf,2006-06-14T00:00:00,4435.42417992735,1188636.51148518
+160,re_planungsraum.04051653,04051653,Prager Platz,Polygon,Prager Platz,Volkspark Wilmersdorf,CW 5,Charlottenburg-Wilmersdorf,2006-06-14T00:00:00,4141.02815987086,941806.135023198
+161,re_planungsraum.04051654,04051654,Wilhelmsaue,Polygon,Wilhelmsaue,Volkspark Wilmersdorf,CW 5,Charlottenburg-Wilmersdorf,2006-06-14T00:00:00,3722.63400252089,792951.481006661
+162,re_planungsraum.04051655,04051655,Babelsberger Straße,Polygon,Babelsberger Straße,Volkspark Wilmersdorf,CW 5,Charlottenburg-Wilmersdorf,2006-06-14T00:00:00,5687.58544487873,1577819.66550741
+163,re_planungsraum.04051656,04051656,Hildegardstraße,Polygon,Hildegardstraße,Volkspark Wilmersdorf,CW 5,Charlottenburg-Wilmersdorf,2006-06-14T00:00:00,3967.00269351249,871332.529504799
+164,re_planungsraum.04061757,04061757,Forst Grunewald,Polygon,Forst Grunewald,Forst Grunewald,CW 6,Charlottenburg-Wilmersdorf,2006-06-14T00:00:00,33027.0536579059,49701745.3831137
+165,re_planungsraum.05010101,05010101,Hakenfelde Nord,Polygon,Hakenfelde Nord,Hakenfelde,SPA 1,Spandau,2006-06-14T00:00:00,41038.1961994954,46766777.3075562
+166,re_planungsraum.05010102,05010102,Goltzstraße,Polygon,Goltzstraße,Hakenfelde,SPA 1,Spandau,2006-06-14T00:00:00,5690.86883312856,1269587.90261982
+167,re_planungsraum.05010103,05010103,Amorbacher Weg,Polygon,Amorbacher Weg,Hakenfelde,SPA 1,Spandau,2006-06-14T00:00:00,12089.7553602196,5926544.48888823
+168,re_planungsraum.05010204,05010204,Griesingerstraße,Polygon,Griesingerstraße,Falkenhagener Feld,SPA 1,Spandau,2006-06-14T00:00:00,9951.85730580086,5235257.62197522
+169,re_planungsraum.05010205,05010205,An der Tränke,Polygon,An der Tränke,Falkenhagener Feld,SPA 1,Spandau,2006-06-14T00:00:00,5842.50508160383,1599341.71073998
+170,re_planungsraum.05010206,05010206,Gütersloher Weg,Polygon,Gütersloher Weg,Falkenhagener Feld,SPA 1,Spandau,2006-06-14T00:00:00,10827.1550887648,4766846.4405473
+171,re_planungsraum.05010207,05010207,Darbystraße,Polygon,Darbystraße,Falkenhagener Feld,SPA 1,Spandau,2006-06-14T00:00:00,7419.84926352221,2017291.28354347
+172,re_planungsraum.05010208,05010208,Germersheimer Platz,Polygon,Germersheimer Platz,Falkenhagener Feld,SPA 1,Spandau,2006-06-14T00:00:00,5451.86687514403,1436496.81106268
+173,re_planungsraum.05010209,05010209,An der Kappe,Polygon,An der Kappe,Falkenhagener Feld,SPA 1,Spandau,2006-06-14T00:00:00,16651.6953039277,3773005.97755157
+174,re_planungsraum.05010310,05010310,Eckschanze,Polygon,Eckschanze,Spandau Mitte,SPA 1,Spandau,2006-06-14T00:00:00,3823.22285404031,919623.631630352
+175,re_planungsraum.05010311,05010311,Eiswerder,Polygon,Eiswerder,Spandau Mitte,SPA 1,Spandau,2006-06-14T00:00:00,16215.5403303005,4491565.17145959
+176,re_planungsraum.05010312,05010312,Kurstraße,Polygon,Kurstraße,Spandau Mitte,SPA 1,Spandau,2006-06-14T00:00:00,6720.6905417796,1281573.07846288
+177,re_planungsraum.05010313,05010313,Ackerstraße,Polygon,Ackerstraße,Spandau Mitte,SPA 1,Spandau,2006-06-14T00:00:00,5329.63290027216,1345575.77339136
+178,re_planungsraum.05010314,05010314,Carl-Schurz-Straße,Polygon,Carl-Schurz-Straße,Spandau Mitte,SPA 1,Spandau,2006-06-14T00:00:00,12257.0913574835,4578928.95685372
+179,re_planungsraum.05010339,05010339,Freiheit,Polygon,Freiheit,Spandau Mitte,SPA 1,Spandau,2008-04-09T00:00:00,12675.6470561725,5224266.97167882
+180,re_planungsraum.05020415,05020415,Isenburger Weg,Polygon,Isenburger Weg,Brunsbütteler Damm,SPA 2,Spandau,2006-06-14T00:00:00,7548.51078716412,3469683.21470979
+181,re_planungsraum.05020416,05020416,Am Heideberg,Polygon,Am Heideberg,Brunsbütteler Damm,SPA 2,Spandau,2006-06-14T00:00:00,4551.25936102268,1137596.35188107
+182,re_planungsraum.05020417,05020417,Staakener Straße,Polygon,Staakener Straße,Brunsbütteler Damm,SPA 2,Spandau,2006-06-14T00:00:00,17101.0457146399,7100993.08892125
+183,re_planungsraum.05020418,05020418,Spandauer Straße,Polygon,Spandauer Straße,Brunsbütteler Damm,SPA 2,Spandau,2006-06-14T00:00:00,7807.03780606289,1943266.71689334
+184,re_planungsraum.05020419,05020419,Magistratsweg,Polygon,Magistratsweg,Brunsbütteler Damm,SPA 2,Spandau,2006-06-14T00:00:00,7571.02014395095,2183775.48820608
+185,re_planungsraum.05020420,05020420,Werkstraße,Polygon,Werkstraße,Brunsbütteler Damm,SPA 2,Spandau,2006-06-14T00:00:00,8863.56684895988,3297552.94823012
+186,re_planungsraum.05020521,05020521,Döberitzer Weg,Polygon,Döberitzer Weg,Heerstraße Nord,SPA 2,Spandau,2006-06-14T00:00:00,11300.4524305729,4386398.94409355
+187,re_planungsraum.05020522,05020522,Pillnitzer Weg,Polygon,Pillnitzer Weg,Heerstraße Nord,SPA 2,Spandau,2006-06-14T00:00:00,10776.8298448964,4544539.38707871
+188,re_planungsraum.05020523,05020523,Maulbeerallee,Polygon,Maulbeerallee,Heerstraße Nord,SPA 2,Spandau,2006-06-14T00:00:00,8723.43311371258,3796958.71865405
+189,re_planungsraum.05020524,05020524,Weinmeisterhornweg,Polygon,Weinmeisterhornweg,Heerstraße Nord,SPA 2,Spandau,2006-06-14T00:00:00,13861.7578239309,7109415.42673868
+190,re_planungsraum.05020625,05020625,Borkumer Straße,Polygon,Borkumer Straße,Wilhelmstadt,SPA 2,Spandau,2006-06-14T00:00:00,10090.9747340135,3579552.32090867
+191,re_planungsraum.05020626,05020626,Adamstraße,Polygon,Adamstraße,Wilhelmstadt,SPA 2,Spandau,2006-06-14T00:00:00,11495.5900062856,3913309.40455151
+192,re_planungsraum.05020627,05020627,Tiefwerder,Polygon,Tiefwerder,Wilhelmstadt,SPA 2,Spandau,2008-07-17T00:00:00,12500.8002103597,4289593.64387081
+193,re_planungsraum.05020628,05020628,Graetschelsteig,Polygon,Graetschelsteig,Wilhelmstadt,SPA 2,Spandau,2006-06-14T00:00:00,5774.6873032202,1327453.89087969
+194,re_planungsraum.05020629,05020629,Börnicker Straße,Polygon,Börnicker Straße,Wilhelmstadt,SPA 2,Spandau,2006-06-14T00:00:00,17904.230614095,10069707.8522439
+195,re_planungsraum.05030730,05030730,Zitadellenweg,Polygon,Zitadellenweg,Haselhorst,SPA 3,Spandau,2006-06-14T00:00:00,21265.0363769858,9609642.13786716
+196,re_planungsraum.05030731,05030731,Gartenfelder Straße,Polygon,Gartenfelder Straße,Haselhorst,SPA 3,Spandau,2006-06-14T00:00:00,10225.7521094399,3147035.37894447
+197,re_planungsraum.05030832,05030832,Rohrdamm,Polygon,Rohrdamm,Siemensstadt,SPA 3,Spandau,2006-06-14T00:00:00,14703.0560157795,6443154.86486036
+198,re_planungsraum.05030833,05030833,Motardstraße,Polygon,Motardstraße,Siemensstadt,SPA 3,Spandau,2006-06-14T00:00:00,16326.0456628554,8834672.50861597
+199,re_planungsraum.05040934,05040934,Alt-Gatow,Polygon,Alt-Gatow,Gatow/Kladow,SPA 4,Spandau,2006-06-14T00:00:00,20715.2943481159,9871314.49526598
+200,re_planungsraum.05040935,05040935,Groß-Glienicker Weg,Polygon,Groß-Glienicker Weg,Gatow/Kladow,SPA 4,Spandau,2006-06-14T00:00:00,33128.4716448911,21094673.0107498
+201,re_planungsraum.05040936,05040936,Jägerallee,Polygon,Jägerallee,Gatow/Kladow,SPA 4,Spandau,2006-06-14T00:00:00,25315.6392464053,19721804.646375
+202,re_planungsraum.05040937,05040937,Kladower Damm,Polygon,Kladower Damm,Gatow/Kladow,SPA 4,Spandau,2006-06-14T00:00:00,26834.8045152789,11607725.5338048
+203,re_planungsraum.05040938,05040938,Kafkastraße,Polygon,Kafkastraße,Gatow/Kladow,SPA 4,Spandau,2006-06-14T00:00:00,10105.0915147827,4666868.27902752
+204,re_planungsraum.06010101,06010101,Fichtenberg,Polygon,Fichtenberg,Schloßstraße,Region A,Steglitz-Zehlendorf,2006-06-14T00:00:00,7862.30062835105,2661347.14218337
+205,re_planungsraum.06010102,06010102,Schloßstraße,Polygon,Schloßstraße,Schloßstraße,Region A,Steglitz-Zehlendorf,2006-06-14T00:00:00,7338.53898051594,1314531.10743226
+206,re_planungsraum.06010103,06010103,Markelstraße,Polygon,Markelstraße,Schloßstraße,Region A,Steglitz-Zehlendorf,2006-06-14T00:00:00,6388.3929078567,1239895.77139866
+207,re_planungsraum.06010204,06010204,Munsterdamm,Polygon,Munsterdamm,Albrechtstraße,Region A,Steglitz-Zehlendorf,2006-06-14T00:00:00,8280.13207642423,2999094.2656676
+208,re_planungsraum.06010205,06010205,Südende,Polygon,Südende,Albrechtstraße,Region A,Steglitz-Zehlendorf,2006-06-14T00:00:00,6955.57946736068,2286898.00485739
+209,re_planungsraum.06010206,06010206,Stadtpark,Polygon,Stadtpark,Albrechtstraße,Region A,Steglitz-Zehlendorf,2006-06-14T00:00:00,7268.38249015828,1907549.66119845
+210,re_planungsraum.06010207,06010207,Mittelstraße,Polygon,Mittelstraße,Albrechtstraße,Region A,Steglitz-Zehlendorf,2006-06-14T00:00:00,6679.596235592,1827027.96024568
+211,re_planungsraum.06010208,06010208,Bergstraße,Polygon,Bergstraße,Albrechtstraße,Region A,Steglitz-Zehlendorf,2006-06-14T00:00:00,6240.00750305655,1667616.65405022
+212,re_planungsraum.06010209,06010209,Feuerbachstraße,Polygon,Feuerbachstraße,Albrechtstraße,Region A,Steglitz-Zehlendorf,2006-06-14T00:00:00,5614.21671240533,1704424.42658004
+213,re_planungsraum.06010210,06010210,Bismarckstraße,Polygon,Bismarckstraße,Albrechtstraße,Region A,Steglitz-Zehlendorf,2006-06-14T00:00:00,3670.12616005469,633458.689113011
+214,re_planungsraum.06020301,06020301,Alt-Lankwitz,Polygon,Alt-Lankwitz,Lankwitz,Region B,Steglitz-Zehlendorf,2006-06-14T00:00:00,7680.11354166054,2670652.70941768
+215,re_planungsraum.06020302,06020302,Komponistenviertel Lankwitz,Polygon,Komponistenviertel Lankwitz,Lankwitz,Region B,Steglitz-Zehlendorf,2006-06-14T00:00:00,8045.5496019185,3324783.08895277
+216,re_planungsraum.06020303,06020303,Lankwitz Kirche,Polygon,Lankwitz Kirche,Lankwitz,Region B,Steglitz-Zehlendorf,2006-06-14T00:00:00,5890.83411689067,1827154.7430654
+217,re_planungsraum.06020304,06020304,Kaiser-Wilhelm-Straße,Polygon,Kaiser-Wilhelm-Straße,Lankwitz,Region B,Steglitz-Zehlendorf,2006-06-14T00:00:00,7834.43293567448,2011571.11322595
+218,re_planungsraum.06020305,06020305,Gemeindepark Lankwitz,Polygon,Gemeindepark Lankwitz,Lankwitz,Region B,Steglitz-Zehlendorf,2006-06-14T00:00:00,11036.6532486187,4958811.25243436
+219,re_planungsraum.06020306,06020306,Lankwitz Süd,Polygon,Lankwitz Süd,Lankwitz,Region B,Steglitz-Zehlendorf,2006-06-14T00:00:00,12461.6321255264,3977999.84272311
+220,re_planungsraum.06020407,06020407,Thermometersiedlung,Polygon,Thermometersiedlung,Ostpreußendamm,Region B,Steglitz-Zehlendorf,2006-06-14T00:00:00,8454.1113050872,3697656.74537843
+221,re_planungsraum.06020408,06020408,Lichterfelde Süd,Polygon,Lichterfelde Süd,Ostpreußendamm,Region B,Steglitz-Zehlendorf,2006-06-14T00:00:00,9339.03708675483,3746383.12243488
+222,re_planungsraum.06020409,06020409,Königsberger Straße,Polygon,Königsberger Straße,Ostpreußendamm,Region B,Steglitz-Zehlendorf,2006-06-14T00:00:00,14224.5099137668,5525391.40374586
+223,re_planungsraum.06020410,06020410,Oberhofer Platz,Polygon,Oberhofer Platz,Ostpreußendamm,Region B,Steglitz-Zehlendorf,2006-06-14T00:00:00,10563.8056965294,3682583.16191031
+224,re_planungsraum.06020411,06020411,Schütte-Lanz-Straße,Polygon,Schütte-Lanz-Straße,Ostpreußendamm,Region B,Steglitz-Zehlendorf,2006-06-14T00:00:00,9576.16692232679,4673725.56312808
+225,re_planungsraum.06030501,06030501,Berlepschstraße,Polygon,Berlepschstraße,Teltower Damm,Region C,Steglitz-Zehlendorf,2006-06-14T00:00:00,12912.6940249043,4686325.06166036
+226,re_planungsraum.06030502,06030502,Zehlendorf Süd,Polygon,Zehlendorf Süd,Teltower Damm,Region C,Steglitz-Zehlendorf,2006-06-14T00:00:00,9146.63466297443,3524160.85644269
+227,re_planungsraum.06030503,06030503,Zehlendorf Mitte,Polygon,Zehlendorf Mitte,Teltower Damm,Region C,Steglitz-Zehlendorf,2006-06-14T00:00:00,12728.6089587942,5062545.33671109
+228,re_planungsraum.06030504,06030504,Teltower Damm,Polygon,Teltower Damm,Teltower Damm,Region C,Steglitz-Zehlendorf,2006-06-14T00:00:00,12956.8279219718,8373049.94779428
+229,re_planungsraum.06030605,06030605,Botanischer Garten,Polygon,Botanischer Garten,Drakestraße,Region C,Steglitz-Zehlendorf,2006-06-14T00:00:00,11626.6231110194,3807338.60925343
+230,re_planungsraum.06030606,06030606,Hindenburgdamm,Polygon,Hindenburgdamm,Drakestraße,Region C,Steglitz-Zehlendorf,2006-06-14T00:00:00,9564.70580076395,2005565.86935307
+231,re_planungsraum.06030607,06030607,Goerzwerke,Polygon,Goerzwerke,Drakestraße,Region C,Steglitz-Zehlendorf,2006-06-14T00:00:00,15031.6795639597,4785866.59450987
+232,re_planungsraum.06030608,06030608,Schweizer Viertel,Polygon,Schweizer Viertel,Drakestraße,Region C,Steglitz-Zehlendorf,2006-06-14T00:00:00,13574.8725694433,8283093.23740577
+233,re_planungsraum.06030609,06030609,Augustaplatz,Polygon,Augustaplatz,Drakestraße,Region C,Steglitz-Zehlendorf,2006-06-14T00:00:00,9402.11721843461,4480118.46439116
+234,re_planungsraum.06030610,06030610,Lichterfelde West,Polygon,Lichterfelde West,Drakestraße,Region C,Steglitz-Zehlendorf,2006-06-14T00:00:00,9470.24465778991,4257698.91591482
+235,re_planungsraum.06040701,06040701,Wannsee,Polygon,Wannsee,Zehlendorf Südwest,Region D,Steglitz-Zehlendorf,2006-06-14T00:00:00,52314.3654989104,63705889.2017587
+236,re_planungsraum.06040702,06040702,Düppel,Polygon,Düppel,Zehlendorf Südwest,Region D,Steglitz-Zehlendorf,2006-06-14T00:00:00,16881.059068215,8404121.4206817
+237,re_planungsraum.06040703,06040703,Nikolassee,Polygon,Nikolassee,Zehlendorf Südwest,Region D,Steglitz-Zehlendorf,2006-06-14T00:00:00,34447.0214540923,44315835.1965906
+238,re_planungsraum.06040804,06040804,Krumme Lanke,Polygon,Krumme Lanke,Zehlendorf Nord,Region D,Steglitz-Zehlendorf,2006-06-14T00:00:00,19607.4628728639,17251664.2741037
+239,re_planungsraum.06040805,06040805,Fischerhüttenstraße,Polygon,Fischerhüttenstraße,Zehlendorf Nord,Region D,Steglitz-Zehlendorf,2006-06-14T00:00:00,10031.43153969,4925294.38061872
+240,re_planungsraum.06040806,06040806,Fischtal,Polygon,Fischtal,Zehlendorf Nord,Region D,Steglitz-Zehlendorf,2006-06-14T00:00:00,9169.25749433515,3719911.82635477
+241,re_planungsraum.06040807,06040807,Zehlendorf Eiche,Polygon,Zehlendorf Eiche,Zehlendorf Nord,Region D,Steglitz-Zehlendorf,2006-06-14T00:00:00,7804.17817084013,2960610.29011469
+242,re_planungsraum.06040808,06040808,Hüttenweg,Polygon,Hüttenweg,Zehlendorf Nord,Region D,Steglitz-Zehlendorf,2006-06-14T00:00:00,13434.381590573,7999983.28439375
+243,re_planungsraum.06040809,06040809,Thielallee,Polygon,Thielallee,Zehlendorf Nord,Region D,Steglitz-Zehlendorf,2006-06-14T00:00:00,11730.2547961771,5674542.1428615
+244,re_planungsraum.06040810,06040810,Dahlem,Polygon,Dahlem,Zehlendorf Nord,Region D,Steglitz-Zehlendorf,2006-06-14T00:00:00,13707.1182015024,8897845.99087642
+245,re_planungsraum.07010101,07010101,Wittenbergplatz/Viktoria-Luise-Platz,Polygon,Wittenbergplatz/Viktoria-Luise-Platz,Schöneberg Nord,Schöneberg Nord,Tempelhof-Schöneberg,2006-06-14T00:00:00,6150.65867113098,1672804.69527489
+246,re_planungsraum.07010102,07010102,Nollendorfplatz,Polygon,Nollendorfplatz,Schöneberg Nord,Schöneberg Nord,Tempelhof-Schöneberg,2006-06-14T00:00:00,6238.0372969916,2312769.45785871
+247,re_planungsraum.07010103,07010103,Barbarossaplatz,Polygon,Barbarossaplatz,Schöneberg Nord,Schöneberg Nord,Tempelhof-Schöneberg,2006-06-14T00:00:00,4907.50541089283,1386825.44260028
+248,re_planungsraum.07010104,07010104,Dennewitzplatz,Polygon,Dennewitzplatz,Schöneberg Nord,Schöneberg Nord,Tempelhof-Schöneberg,2006-06-14T00:00:00,7208.6599543255,2295534.46022481
+249,re_planungsraum.07020201,07020201,Bayerischer Platz,Polygon,Bayerischer Platz,Schöneberg Süd,Schöneberg Süd,Tempelhof-Schöneberg,2006-06-14T00:00:00,5079.74932230172,1410435.63450538
+250,re_planungsraum.07020202,07020202,Volkspark (Rudolf-Wilde-Park),Polygon,Volkspark (Rudolf-Wilde-Park),Schöneberg Süd,Schöneberg Süd,Tempelhof-Schöneberg,2006-06-14T00:00:00,5665.18118240983,1682514.69435154
+251,re_planungsraum.07020203,07020203,Kaiser-Wilhelm-Platz,Polygon,Kaiser-Wilhelm-Platz,Schöneberg Süd,Schöneberg Süd,Tempelhof-Schöneberg,2006-06-14T00:00:00,6605.86082927894,2466073.27204485
+252,re_planungsraum.07020204,07020204,Schöneberger Insel,Polygon,Schöneberger Insel,Schöneberg Süd,Schöneberg Süd,Tempelhof-Schöneberg,2006-06-14T00:00:00,9674.75836154065,3477313.66820966
+253,re_planungsraum.07030301,07030301,Friedenau,Polygon,Friedenau,Friedenau,Friedenau,Tempelhof-Schöneberg,2006-06-14T00:00:00,8892.855853332,3938843.58532961
+254,re_planungsraum.07030302,07030302,Ceciliengärten,Polygon,Ceciliengärten,Friedenau,Friedenau,Tempelhof-Schöneberg,2006-06-14T00:00:00,6574.21394724489,1526846.89345936
+255,re_planungsraum.07030303,07030303,Grazer Platz,Polygon,Grazer Platz,Friedenau,Friedenau,Tempelhof-Schöneberg,2006-06-14T00:00:00,12682.9405003705,6924502.22672389
+256,re_planungsraum.07040401,07040401,Neu-Tempelhof,Polygon,Neu-Tempelhof,Tempelhof,Tempelhof,Tempelhof-Schöneberg,2006-06-14T00:00:00,17254.5630900037,14705642.7421498
+257,re_planungsraum.07040402,07040402,Lindenhofsiedlung,Polygon,Lindenhofsiedlung,Tempelhof,Tempelhof,Tempelhof-Schöneberg,2006-06-14T00:00:00,9037.45748157983,3908466.1201078
+258,re_planungsraum.07040403,07040403,Manteuffelstraße,Polygon,Manteuffelstraße,Tempelhof,Tempelhof,Tempelhof-Schöneberg,2006-06-14T00:00:00,10132.101383547,5003961.43980658
+259,re_planungsraum.07040404,07040404,Marienhöhe,Polygon,Marienhöhe,Tempelhof,Tempelhof,Tempelhof-Schöneberg,2006-06-14T00:00:00,7902.07816564794,3144287.61736919
+260,re_planungsraum.07040405,07040405,Rathaus Tempelhof,Polygon,Rathaus Tempelhof,Tempelhof,Tempelhof,Tempelhof-Schöneberg,2006-06-14T00:00:00,13780.1201059814,8231654.10250994
+261,re_planungsraum.07040406,07040406,Germaniagarten,Polygon,Germaniagarten,Tempelhof,Tempelhof,Tempelhof-Schöneberg,2006-06-14T00:00:00,6407.94334085478,1775155.10141864
+262,re_planungsraum.07050501,07050501,Rathausstraße,Polygon,Rathausstraße,Mariendorf,Mariendorf,Tempelhof-Schöneberg,2006-06-14T00:00:00,9595.32774659129,5478396.86727743
+263,re_planungsraum.07050502,07050502,Fritz-Werner-Straße,Polygon,Fritz-Werner-Straße,Mariendorf,Mariendorf,Tempelhof-Schöneberg,2006-06-14T00:00:00,9754.49468371634,4711405.62934262
+264,re_planungsraum.07050503,07050503,Eisenacher Straße,Polygon,Eisenacher Straße,Mariendorf,Mariendorf,Tempelhof-Schöneberg,2006-06-14T00:00:00,8602.91458033588,4136776.4898907
+265,re_planungsraum.07050504,07050504,Imbrosweg,Polygon,Imbrosweg,Mariendorf,Mariendorf,Tempelhof-Schöneberg,2006-06-14T00:00:00,7912.56540675966,3313484.70559862
+266,re_planungsraum.07050505,07050505,Hundsteinweg,Polygon,Hundsteinweg,Mariendorf,Mariendorf,Tempelhof-Schöneberg,2006-06-14T00:00:00,11763.0169650962,6052599.17016804
+267,re_planungsraum.07050506,07050506,Birnhornweg,Polygon,Birnhornweg,Mariendorf,Mariendorf,Tempelhof-Schöneberg,2006-06-14T00:00:00,5581.8575975672,1489109.0746248
+268,re_planungsraum.07060601,07060601,Marienfelder Allee Nordwest,Polygon,Marienfelder Allee Nordwest,Marienfelde,Marienfelde,Tempelhof-Schöneberg,2006-06-14T00:00:00,9460.65374132174,3078550.99282956
+269,re_planungsraum.07060602,07060602,Kirchstraße,Polygon,Kirchstraße,Marienfelde,Marienfelde,Tempelhof-Schöneberg,2006-06-14T00:00:00,7922.01920216889,3315733.13147517
+270,re_planungsraum.07060603,07060603,Marienfelde Nordost,Polygon,Marienfelde Nordost,Marienfelde,Marienfelde,Tempelhof-Schöneberg,2006-06-14T00:00:00,15638.4182185153,5334118.52227951
+271,re_planungsraum.07060604,07060604,Marienfelde Süd,Polygon,Marienfelde Süd,Marienfelde,Marienfelde,Tempelhof-Schöneberg,2006-06-14T00:00:00,17826.9397372059,12805392.6906634
+272,re_planungsraum.07070701,07070701,Kettinger Straße/Schillerstraße,Polygon,Kettinger Straße/Schillerstraße,Lichtenrade,Lichtenrade,Tempelhof-Schöneberg,2006-06-14T00:00:00,11452.3777066518,6297906.45827694
+273,re_planungsraum.07070702,07070702,Alt-Lichtenrade/Töpchiner Weg,Polygon,Alt-Lichtenrade/Töpchiner Weg,Lichtenrade,Lichtenrade,Tempelhof-Schöneberg,2006-06-14T00:00:00,10456.6213723038,5328302.05803833
+274,re_planungsraum.07070703,07070703,John-Locke-Straße,Polygon,John-Locke-Straße,Lichtenrade,Lichtenrade,Tempelhof-Schöneberg,2006-06-14T00:00:00,8306.71132585452,3012604.95810794
+275,re_planungsraum.07070704,07070704,Nahariyastraße,Polygon,Nahariyastraße,Lichtenrade,Lichtenrade,Tempelhof-Schöneberg,2006-06-14T00:00:00,6313.27919329375,2413536.94199682
+276,re_planungsraum.07070705,07070705,Franziusweg/Rohrbachstraße,Polygon,Franziusweg/Rohrbachstraße,Lichtenrade,Lichtenrade,Tempelhof-Schöneberg,2006-06-14T00:00:00,11385.3100958941,4775564.70939131
+277,re_planungsraum.07070706,07070706,Horstwalder Straße/Paplitzer Straße,Polygon,Horstwalder Straße/Paplitzer Straße,Lichtenrade,Lichtenrade,Tempelhof-Schöneberg,2006-06-14T00:00:00,6920.82323424783,2515047.15355853
+278,re_planungsraum.07070707,07070707,Wittelsbacherstraße,Polygon,Wittelsbacherstraße,Lichtenrade,Lichtenrade,Tempelhof-Schöneberg,2006-06-14T00:00:00,6948.80828413132,2601638.33504169
+279,re_planungsraum.08010115,08010115,Hasenheide,Polygon,Hasenheide,Schillerpromenade,Neukölln,Neukölln,2008-04-09T00:00:00,11720.7507850854,3835310.15484231
+280,re_planungsraum.08010116,08010116,Wissmannstraße,Polygon,Wissmannstraße,Schillerpromenade,Neukölln,Neukölln,2008-04-09T00:00:00,3137.94983247815,444918.468930227
+281,re_planungsraum.08010117,08010117,Schillerpromenade,Polygon,Schillerpromenade,Schillerpromenade,Neukölln,Neukölln,2008-04-09T00:00:00,4841.67862130821,1350317.44829992
+282,re_planungsraum.08010118,08010118,Silbersteinstraße,Polygon,Silbersteinstraße,Schillerpromenade,Neukölln,Neukölln,2008-04-09T00:00:00,6425.80916769486,2307893.6000105
+283,re_planungsraum.08010211,08010211,Flughafenstraße,Polygon,Flughafenstraße,Neuköllner Mitte/Zentrum,Neukölln,Neukölln,2008-04-09T00:00:00,4916.27665251555,1135198.58202993
+284,re_planungsraum.08010212,08010212,Rollberg,Polygon,Rollberg,Neuköllner Mitte/Zentrum,Neukölln,Neukölln,2008-04-09T00:00:00,4706.86555393518,1000176.70034073
+285,re_planungsraum.08010213,08010213,Körnerpark,Polygon,Körnerpark,Neuköllner Mitte/Zentrum,Neukölln,Neukölln,2008-04-09T00:00:00,4914.07991254974,1489905.75792824
+286,re_planungsraum.08010214,08010214,Glasower Straße,Polygon,Glasower Straße,Neuköllner Mitte/Zentrum,Neukölln,Neukölln,2008-04-09T00:00:00,5946.72459904136,1585092.11852039
+287,re_planungsraum.08010301,08010301,Reuterkiez,Polygon,Reuterkiez,Reuterstraße,Neukölln,Neukölln,2008-04-09T00:00:00,8013.85647883981,2773773.23194579
+288,re_planungsraum.08010302,08010302,Bouchéstraße,Polygon,Bouch¿straße,Reuterstraße,Neukölln,Neukölln,2008-04-09T00:00:00,3208.64796310307,376980.771533899
+289,re_planungsraum.08010303,08010303,Donaustraße,Polygon,Donaustraße,Reuterstraße,Neukölln,Neukölln,2008-04-09T00:00:00,4573.50721004849,688735.373524248
+290,re_planungsraum.08010404,08010404,Rixdorf,Polygon,Rixdorf,Rixdorf,Neukölln,Neukölln,2008-04-09T00:00:00,7484.41063371139,2696637.87797035
+291,re_planungsraum.08010405,08010405,Hertzbergplatz,Polygon,Hertzbergplatz,Rixdorf,Neukölln,Neukölln,2008-04-09T00:00:00,5525.36141037773,1074576.35711366
+292,re_planungsraum.08010406,08010406,Treptower Straße Nord,Polygon,Treptower Straße Nord,Rixdorf,Neukölln,Neukölln,2008-04-09T00:00:00,5261.07015218874,1160567.27392956
+293,re_planungsraum.08010407,08010407,Gewerbegebiet Ederstraße,Polygon,Gewerbegebiet Ederstraße,Rixdorf,Neukölln,Neukölln,2008-04-09T00:00:00,3899.65496462647,646238.094480363
+294,re_planungsraum.08010508,08010508,Weiße Siedlung,Polygon,Weiße Siedlung,Köllnische Heide,Neukölln,Neukölln,2008-04-09T00:00:00,8126.77642519685,3015942.22267194
+295,re_planungsraum.08010509,08010509,Schulenburgpark,Polygon,Schulenburgpark,Köllnische Heide,Neukölln,Neukölln,2008-04-09T00:00:00,5945.79682301183,1907257.07872135
+296,re_planungsraum.08010510,08010510,Gewerbegebiet Köllnische Heide,Polygon,Gewerbegebiet Köllnische Heide,Köllnische Heide,Neukölln,Neukölln,2008-04-09T00:00:00,10856.7279533237,4003303.48238633
+297,re_planungsraum.08020619,08020619,Buschkrugallee Nord,Polygon,Buschkrugallee Nord,Britz,Britz/Buckow,Neukölln,2006-06-14T00:00:00,10002.4768369028,4963974.12024287
+298,re_planungsraum.08020620,08020620,Tempelhofer Weg,Polygon,Tempelhofer Weg,Britz,Britz/Buckow,Neukölln,2006-06-14T00:00:00,12177.1216157191,4864550.28281994
+299,re_planungsraum.08020621,08020621,Mohriner Allee Nord,Polygon,Mohriner Allee Nord,Britz,Britz/Buckow,Neukölln,2006-06-14T00:00:00,10303.6318832851,3151871.38458869
+300,re_planungsraum.08020622,08020622,Parchimer Allee,Polygon,Parchimer Allee,Britz,Britz/Buckow,Neukölln,2006-06-14T00:00:00,9686.49318187778,5764135.39403669
+301,re_planungsraum.08020623,08020623,Ortolanweg,Polygon,Ortolanweg,Britz,Britz/Buckow,Neukölln,2006-06-14T00:00:00,8772.34000253169,3189043.73904613
+302,re_planungsraum.08020624,08020624,Britzer Garten,Polygon,Britzer Garten,Britz,Britz/Buckow,Neukölln,2006-06-14T00:00:00,11507.9717288546,8027472.16651284
+303,re_planungsraum.08020625,08020625,Handwerker-Siedlung,Polygon,Handwerker-Siedlung,Britz,Britz/Buckow,Neukölln,2006-06-14T00:00:00,8564.66219794298,3696818.07489286
+304,re_planungsraum.08020726,08020726,Buckow West,Polygon,Buckow West,Buckow,Britz/Buckow,Neukölln,2006-06-14T00:00:00,9284.51858945483,3912998.23865048
+305,re_planungsraum.08020727,08020727,Buckow Mitte,Polygon,Buckow Mitte,Buckow,Britz/Buckow,Neukölln,2006-06-14T00:00:00,10205.8676167848,5454844.55014927
+306,re_planungsraum.08020728,08020728,Buckow Ost,Polygon,Buckow Ost,Buckow,Britz/Buckow,Neukölln,2006-06-14T00:00:00,7940.64757151299,2971832.61614372
+307,re_planungsraum.08030829,08030829,Gropiusstadt Nord,Polygon,Gropiusstadt Nord,Gropiusstadt,Gropiusstadt,Neukölln,2006-06-14T00:00:00,10200.8324340075,2275017.83191062
+308,re_planungsraum.08030830,08030830,Gropiusstadt Süd,Polygon,Gropiusstadt Süd,Gropiusstadt,Gropiusstadt,Neukölln,2006-06-14T00:00:00,7125.24221833285,1818185.55732613
+309,re_planungsraum.08030831,08030831,Gropiusstadt Ost,Polygon,Gropiusstadt Ost,Gropiusstadt,Gropiusstadt,Neukölln,2006-06-14T00:00:00,8928.85563270026,3042129.8043105
+310,re_planungsraum.08040932,08040932,Goldhähnchenweg,Polygon,Goldhähnchenweg,Buckow Nord,Buckow Nord/Rudow,Neukölln,2006-06-14T00:00:00,2630.98095398992,359592.098089391
+311,re_planungsraum.08040933,08040933,Vogelviertel Süd,Polygon,Vogelviertel Süd,Buckow Nord,Buckow Nord/Rudow,Neukölln,2006-06-14T00:00:00,8976.98380597914,2220636.96633099
+312,re_planungsraum.08040934,08040934,Vogelviertel Nord,Polygon,Vogelviertel Nord,Buckow Nord,Buckow Nord/Rudow,Neukölln,2006-06-14T00:00:00,4713.57900515185,1183703.03988417
+313,re_planungsraum.08041035,08041035,Blumenviertel,Polygon,Blumenviertel,Rudow,Buckow Nord/Rudow,Neukölln,2006-06-14T00:00:00,10888.955053194,5693055.67890919
+314,re_planungsraum.08041036,08041036,Zittauer Straße,Polygon,Zittauer Straße,Rudow,Buckow Nord/Rudow,Neukölln,2006-06-14T00:00:00,10342.1917816892,5159494.82902521
+315,re_planungsraum.08041037,08041037,Alt-Rudow,Polygon,Alt-Rudow,Rudow,Buckow Nord/Rudow,Neukölln,2006-06-14T00:00:00,10669.6263223257,6732697.26076549
+316,re_planungsraum.08041038,08041038,Waßmannsdorfer Chaussee,Polygon,Waßmannsdorfer Chaussee,Rudow,Buckow Nord/Rudow,Neukölln,2006-06-14T00:00:00,12784.3299824396,7448589.50368317
+317,re_planungsraum.08041039,08041039,Frauenviertel,Polygon,Frauenviertel,Rudow,Buckow Nord/Rudow,Neukölln,2006-06-14T00:00:00,4664.52393016447,1265815.41835741
+318,re_planungsraum.08041040,08041040,Waltersdorfer Chaussee Ost,Polygon,Waltersdorfer Chaussee Ost,Rudow,Buckow Nord/Rudow,Neukölln,2006-06-14T00:00:00,10922.5582135202,6024095.47538642
+319,re_planungsraum.09010101,09010101,Elsenstraße,Polygon,Elsenstraße,Alt-Treptow,Treptow-Köpenick 1,Treptow-Köpenick,2006-06-14T00:00:00,8331.42322907669,3325749.27516868
+320,re_planungsraum.09010102,09010102,Am Treptower Park Nord,Polygon,Am Treptower Park Nord,Alt-Treptow,Treptow-Köpenick 1,Treptow-Köpenick,2006-06-14T00:00:00,8203.88767573726,2903439.79394055
+321,re_planungsraum.09010201,09010201,Am Treptower Park Süd,Polygon,Am Treptower Park Süd,Plänterwald,Treptow-Köpenick 1,Treptow-Köpenick,2006-06-14T00:00:00,8479.29137459417,2300571.05239195
+322,re_planungsraum.09010202,09010202,Köpenicker Landstraße,Polygon,Köpenicker Landstraße,Plänterwald,Treptow-Köpenick 1,Treptow-Köpenick,2006-06-14T00:00:00,12373.9657508231,5777909.36323912
+323,re_planungsraum.09010301,09010301,Baumschulenstraße,Polygon,Baumschulenstraße,Baumschulenweg,Treptow-Köpenick 1,Treptow-Köpenick,2006-06-14T00:00:00,12884.947127115,5681767.46558531
+324,re_planungsraum.09010302,09010302,Späthsfelde,Polygon,Späthsfelde,Baumschulenweg,Treptow-Köpenick 1,Treptow-Köpenick,2006-06-14T00:00:00,13035.1755186822,7317641.20896036
+325,re_planungsraum.09010401,09010401,Johannisthal West,Polygon,Johannisthal West,Johannisthal,Treptow-Köpenick 1,Treptow-Köpenick,2006-06-14T00:00:00,16557.8440143235,8724531.50084253
+326,re_planungsraum.09010402,09010402,Johannisthal Ost,Polygon,Johannisthal Ost,Johannisthal,Treptow-Köpenick 1,Treptow-Köpenick,2006-06-14T00:00:00,13906.7864922216,8689769.04527075
+327,re_planungsraum.09020501,09020501,Oberschöneweide West,Polygon,Oberschöneweide West,Oberschöneweide,Treptow-Köpenick 2,Treptow-Köpenick,2006-06-14T00:00:00,12286.2049933174,6257736.58130336
+328,re_planungsraum.09020502,09020502,Oberschöneweide Ost,Polygon,Oberschöneweide Ost,Oberschöneweide,Treptow-Köpenick 2,Treptow-Köpenick,2006-06-14T00:00:00,18118.9551391383,15074424.2118564
+329,re_planungsraum.09020601,09020601,Schnellerstraße,Polygon,Schnellerstraße,Niederschöneweide,Treptow-Köpenick 2,Treptow-Köpenick,2006-06-14T00:00:00,19549.3780630496,5125965.25554573
+330,re_planungsraum.09020602,09020602,Oberspree,Polygon,Oberspree,Niederschöneweide,Treptow-Köpenick 2,Treptow-Köpenick,2006-06-14T00:00:00,15054.7017413849,4275215.67961859
+331,re_planungsraum.09020701,09020701,Adlershof West,Polygon,Adlershof West,Adlershof,Treptow-Köpenick 2,Treptow-Köpenick,2006-06-14T00:00:00,12497.5778686673,7176224.32199309
+332,re_planungsraum.09020702,09020702,Adlershof Ost,Polygon,Adlershof Ost,Adlershof,Treptow-Köpenick 2,Treptow-Köpenick,2006-06-14T00:00:00,15138.1698521454,9371001.64591775
+333,re_planungsraum.09020801,09020801,Spindlersfeld,Polygon,Spindlersfeld,Köllnische Vorstadt/Spindlersfeld,Treptow-Köpenick 2,Treptow-Köpenick,2006-06-14T00:00:00,5167.28687977503,1537782.46152574
+334,re_planungsraum.09020802,09020802,Köllnische Vorstadt,Polygon,Köllnische Vorstadt,Köllnische Vorstadt/Spindlersfeld,Treptow-Köpenick 2,Treptow-Köpenick,2006-06-14T00:00:00,10395.0122372546,4178517.2585209
+335,re_planungsraum.09030901,09030901,Dorf Altglienicke,Polygon,Dorf Altglienicke,Altglienicke,Treptow-Köpenick 3,Treptow-Köpenick,2006-06-14T00:00:00,22465.6007327758,15513944.337055
+336,re_planungsraum.09030902,09030902,Wohngebiet II,Polygon,Wohngebiet II,Altglienicke,Treptow-Köpenick 3,Treptow-Köpenick,2006-06-14T00:00:00,4613.06933126353,1021851.07846584
+337,re_planungsraum.09030903,09030903,Kölner Viertel,Polygon,Kölner Viertel,Altglienicke,Treptow-Köpenick 3,Treptow-Köpenick,2006-06-14T00:00:00,9797.33012511635,4218799.92414963
+338,re_planungsraum.09031001,09031001,Bohnsdorf,Polygon,Bohnsdorf,Bohnsdorf,Treptow-Köpenick 3,Treptow-Köpenick,2006-06-14T00:00:00,19189.0961787168,17866552.4980075
+339,re_planungsraum.09031101,09031101,Grünau,Polygon,Grünau,Grünau,Treptow-Köpenick 3,Treptow-Köpenick,2006-06-14T00:00:00,30297.7600992561,24603089.3686684
+340,re_planungsraum.09031201,09031201,Karolinenhof,Polygon,Karolinenhof,Schmöckwitz/Karolinenhof/Rauchfangswerder,Treptow-Köpenick 3,Treptow-Köpenick,2006-06-14T00:00:00,11569.6874100521,6319594.24453975
+341,re_planungsraum.09031202,09031202,Schmöckwitz/Rauchfangswerder,Polygon,Schmöckwitz/Rauchfangswerder,Schmöckwitz/Karolinenhof/Rauchfangswerder,Treptow-Köpenick 3,Treptow-Köpenick,2006-06-14T00:00:00,51082.8638076409,39560100.9743862
+342,re_planungsraum.09041301,09041301,Kietzer Feld/Nachtheide,Polygon,Kietzer Feld/Nachtheide,Köpenick Süd,Treptow-Köpenick 4,Treptow-Köpenick,2006-06-14T00:00:00,38909.4696471716,51959323.8349752
+343,re_planungsraum.09041302,09041302,Wendenschloß,Polygon,Wendenschloß,Köpenick Süd,Treptow-Köpenick 4,Treptow-Köpenick,2006-06-14T00:00:00,12441.0134439487,2592467.17857608
+344,re_planungsraum.09041401,09041401,Allende I,Polygon,Allende I,Allende-Viertel,Treptow-Köpenick 4,Treptow-Köpenick,2006-06-14T00:00:00,6266.80840194596,1258819.78767334
+345,re_planungsraum.09041402,09041402,Allende II,Polygon,Allende II,Allende-Viertel,Treptow-Köpenick 4,Treptow-Köpenick,2006-06-14T00:00:00,5233.07160953722,1638596.48992353
+346,re_planungsraum.09041501,09041501,Altstadt Kietz,Polygon,Altstadt Kietz,Altstadt Kietz,Treptow-Köpenick 4,Treptow-Köpenick,2009-09-14T00:00:00,7906.31079339657,2237742.56295337
+347,re_planungsraum.09041601,09041601,Müggelheim,Polygon,Müggelheim,Müggelheim,Treptow-Köpenick 4,Treptow-Köpenick,2006-06-14T00:00:00,38003.1836346049,59544590.8784251
+348,re_planungsraum.09051701,09051701,Hirschgarten,Polygon,Hirschgarten,Friedrichshagen,Treptow-Köpenick 5,Treptow-Köpenick,2006-06-14T00:00:00,12721.0208203213,4864466.50066556
+349,re_planungsraum.09051702,09051702,Bölschestraße,Polygon,Bölschestraße,Friedrichshagen,Treptow-Köpenick 5,Treptow-Köpenick,2006-06-14T00:00:00,27674.717903363,32891686.2427606
+350,re_planungsraum.09051801,09051801,Rahnsdorf/Hessenwinkel,Polygon,Rahnsdorf/Hessenwinkel,Rahnsdorf/Hessenwinkel,Treptow-Köpenick 5,Treptow-Köpenick,2006-06-14T00:00:00,52224.3325245668,57639047.9692809
+351,re_planungsraum.09051901,09051901,Dammvorstadt,Polygon,Dammvorstadt,Dammvorstadt,Treptow-Köpenick 5,Treptow-Köpenick,2006-06-14T00:00:00,16408.4879155122,7485992.54856268
+352,re_planungsraum.09052001,09052001,Köpenick Nord,Polygon,Köpenick Nord,Köpenick Nord,Treptow-Köpenick 5,Treptow-Köpenick,2006-06-14T00:00:00,25097.5709174506,21441357.673951
+353,re_planungsraum.10010101,10010101,Marzahn West,Polygon,Marzahn West,Marzahn Nord,Marzahn,Marzahn-Hellersdorf,2006-06-14T00:00:00,6996.89558277466,1878999.84902587
+354,re_planungsraum.10010102,10010102,Havemannstraße,Polygon,Havemannstraße,Marzahn Nord,Marzahn,Marzahn-Hellersdorf,2006-06-14T00:00:00,10669.7610517553,5132797.27158691
+355,re_planungsraum.10010203,10010203,Gewerbegebiet Bitterfelder Straße,Polygon,Gewerbegebiet Bitterfelder Straße,Marzahn Mitte,Marzahn,Marzahn-Hellersdorf,2006-06-14T00:00:00,13927.9681883053,9724830.60969295
+356,re_planungsraum.10010204,10010204,Wuhletalstraße,Polygon,Wuhletalstraße,Marzahn Mitte,Marzahn,Marzahn-Hellersdorf,2006-06-14T00:00:00,6823.25956051247,2285057.09659634
+357,re_planungsraum.10010205,10010205,Marzahn Ost,Polygon,Marzahn Ost,Marzahn Mitte,Marzahn,Marzahn-Hellersdorf,2006-06-14T00:00:00,7512.43155818948,2968159.74775132
+358,re_planungsraum.10010206,10010206,Ringkolonnaden,Polygon,Ringkolonnaden,Marzahn Mitte,Marzahn,Marzahn-Hellersdorf,2006-06-14T00:00:00,8928.19462342797,4014632.9370317
+359,re_planungsraum.10010207,10010207,Marzahner Promenade,Polygon,Marzahner Promenade,Marzahn Mitte,Marzahn,Marzahn-Hellersdorf,2006-06-14T00:00:00,8059.60384426236,2324408.10835004
+360,re_planungsraum.10010308,10010308,Marzahner Chaussee,Polygon,Marzahner Chaussee,Marzahn Süd,Marzahn,Marzahn-Hellersdorf,2006-06-14T00:00:00,16122.0648229786,10795553.1797035
+361,re_planungsraum.10010309,10010309,Springpfuhl,Polygon,Springpfuhl,Marzahn Süd,Marzahn,Marzahn-Hellersdorf,2006-06-14T00:00:00,8793.27732237726,3240870.22703315
+362,re_planungsraum.10010310,10010310,Alt-Marzahn,Polygon,Alt-Marzahn,Marzahn Süd,Marzahn,Marzahn-Hellersdorf,2006-06-14T00:00:00,11047.9024368207,6043944.42687237
+363,re_planungsraum.10010311,10010311,Landsberger Tor,Polygon,Landsberger Tor,Marzahn Süd,Marzahn,Marzahn-Hellersdorf,2006-06-14T00:00:00,10503.8709673923,4342305.31277383
+364,re_planungsraum.10020412,10020412,Alte Hellersdorfer Straße,Polygon,Alte Hellersdorfer Straße,Hellersdorf Nord,Hellersdorf,Marzahn-Hellersdorf,2006-06-14T00:00:00,5438.11226529871,1202562.01169584
+365,re_planungsraum.10020413,10020413,Gut Hellersdorf,Polygon,Gut Hellersdorf,Hellersdorf Nord,Hellersdorf,Marzahn-Hellersdorf,2006-06-14T00:00:00,9974.84874309975,4369124.3518793
+366,re_planungsraum.10020414,10020414,Helle Mitte,Polygon,Helle Mitte,Hellersdorf Nord,Hellersdorf,Marzahn-Hellersdorf,2006-06-14T00:00:00,2802.76326989893,442006.581054857
+367,re_planungsraum.10020415,10020415,Hellersdorfer Promenade,Polygon,Hellersdorfer Promenade,Hellersdorf Nord,Hellersdorf,Marzahn-Hellersdorf,2006-06-14T00:00:00,5334.42518208161,1219640.87101332
+368,re_planungsraum.10020416,10020416,Böhlener Straße,Polygon,Böhlener Straße,Hellersdorf Nord,Hellersdorf,Marzahn-Hellersdorf,2006-06-14T00:00:00,8166.710726915,2482024.45074967
+369,re_planungsraum.10020517,10020517,Adele-Sandrock-Straße,Polygon,Adele-Sandrock-Straße,Hellersdorf Ost,Hellersdorf,Marzahn-Hellersdorf,2006-06-14T00:00:00,9525.36952518743,2998353.35886126
+370,re_planungsraum.10020518,10020518,Schleipfuhl,Polygon,Schleipfuhl,Hellersdorf Ost,Hellersdorf,Marzahn-Hellersdorf,2006-06-14T00:00:00,5527.15743114337,1284995.72890627
+371,re_planungsraum.10020519,10020519,Boulevard Kastanienallee,Polygon,Boulevard Kastanienallee,Hellersdorf Ost,Hellersdorf,Marzahn-Hellersdorf,2006-06-14T00:00:00,5409.19973670855,1420372.60924808
+372,re_planungsraum.10020620,10020620,Kaulsdorf Nord II,Polygon,Kaulsdorf Nord II,Hellersdorf Süd,Hellersdorf,Marzahn-Hellersdorf,2006-06-14T00:00:00,5922.02579875187,1404728.48698309
+373,re_planungsraum.10020621,10020621,Gelbes Viertel,Polygon,Gelbes Viertel,Hellersdorf Süd,Hellersdorf,Marzahn-Hellersdorf,2006-06-14T00:00:00,6033.71664438619,1346329.11648519
+374,re_planungsraum.10020622,10020622,Kaulsdorf Nord I,Polygon,Kaulsdorf Nord I,Hellersdorf Süd,Hellersdorf,Marzahn-Hellersdorf,2006-06-14T00:00:00,7165.17849840855,2728038.56327287
+375,re_planungsraum.10020623,10020623,Rotes Viertel,Polygon,Rotes Viertel,Hellersdorf Süd,Hellersdorf,Marzahn-Hellersdorf,2006-06-14T00:00:00,4385.74796834874,1016464.04634492
+376,re_planungsraum.10030724,10030724,Oberfeldstraße,Polygon,Oberfeldstraße,Biesdorf,Biesdorf,Marzahn-Hellersdorf,2006-06-14T00:00:00,11992.3734660578,7411119.91106881
+377,re_planungsraum.10030725,10030725,Buckower Ring,Polygon,Buckower Ring,Biesdorf,Biesdorf,Marzahn-Hellersdorf,2006-06-14T00:00:00,11207.168468727,5549948.88336895
+378,re_planungsraum.10030726,10030726,Alt-Biesdorf,Polygon,Alt-Biesdorf,Biesdorf,Biesdorf,Marzahn-Hellersdorf,2006-06-14T00:00:00,12427.150988181,6454998.28552377
+379,re_planungsraum.10030727,10030727,Biesdorf Süd,Polygon,Biesdorf Süd,Biesdorf,Biesdorf,Marzahn-Hellersdorf,2006-06-14T00:00:00,20465.4004214222,14019681.3765511
+380,re_planungsraum.10040828,10040828,Kaulsdorf Nord,Polygon,Kaulsdorf Nord,Kaulsdorf,Kaulsdorf/Mahlsdorf,Marzahn-Hellersdorf,2006-06-14T00:00:00,13860.611766871,6876543.29163784
+381,re_planungsraum.10040829,10040829,Alt-Kaulsdorf,Polygon,Alt-Kaulsdorf,Kaulsdorf,Kaulsdorf/Mahlsdorf,Marzahn-Hellersdorf,2006-06-14T00:00:00,9144.02609312238,3642718.30086247
+382,re_planungsraum.10040830,10040830,Kaulsdorf Süd,Polygon,Kaulsdorf Süd,Kaulsdorf,Kaulsdorf/Mahlsdorf,Marzahn-Hellersdorf,2006-06-14T00:00:00,18348.0746804885,13087692.357682
+383,re_planungsraum.10040931,10040931,Mahlsdorf Nord,Polygon,Mahlsdorf Nord,Mahlsdorf,Kaulsdorf/Mahlsdorf,Marzahn-Hellersdorf,2006-06-14T00:00:00,15827.5295936312,11382086.0168756
+384,re_planungsraum.10040932,10040932,Alt-Mahlsdorf,Polygon,Alt-Mahlsdorf,Mahlsdorf,Kaulsdorf/Mahlsdorf,Marzahn-Hellersdorf,2006-06-14T00:00:00,10776.6658093119,5121271.98374988
+385,re_planungsraum.10040933,10040933,Mahlsdorf Süd,Polygon,Mahlsdorf Süd,Mahlsdorf,Kaulsdorf/Mahlsdorf,Marzahn-Hellersdorf,2006-06-14T00:00:00,20645.714307055,18470304.7604297
+386,re_planungsraum.11010101,11010101,Dorf Malchow,Polygon,Dorf Malchow,"Malchow, Wartenberg und Falkenberg",Hohenschönhausen Nord,Lichtenberg,2006-06-14T00:00:00,9575.79671160111,3991936.81536867
+387,re_planungsraum.11010102,11010102,Dorf Wartenberg,Polygon,Dorf Wartenberg,"Malchow, Wartenberg und Falkenberg",Hohenschönhausen Nord,Lichtenberg,2006-06-14T00:00:00,19783.9922805547,18861138.6927888
+388,re_planungsraum.11010103,11010103,Dorf Falkenberg,Polygon,Dorf Falkenberg,"Malchow, Wartenberg und Falkenberg",Hohenschönhausen Nord,Lichtenberg,2006-06-14T00:00:00,12821.046087477,8266710.462513
+389,re_planungsraum.11010204,11010204,Falkenberg Ost,Polygon,Falkenberg Ost,Neu-Hohenschönhausen Nord,Hohenschönhausen Nord,Lichtenberg,2006-06-14T00:00:00,7559.1769781375,2458820.8032776
+390,re_planungsraum.11010205,11010205,Falkenberg West,Polygon,Falkenberg West,Neu-Hohenschönhausen Nord,Hohenschönhausen Nord,Lichtenberg,2006-06-14T00:00:00,7331.26467499284,2097442.28517631
+391,re_planungsraum.11010206,11010206,Wartenberg Süd,Polygon,Wartenberg Süd,Neu-Hohenschönhausen Nord,Hohenschönhausen Nord,Lichtenberg,2006-06-14T00:00:00,5609.63563952053,1235038.92216508
+392,re_planungsraum.11010207,11010207,Wartenberg Nord,Polygon,Wartenberg Nord,Neu-Hohenschönhausen Nord,Hohenschönhausen Nord,Lichtenberg,2006-06-14T00:00:00,7427.13954237163,1780778.46972106
+393,re_planungsraum.11010308,11010308,Zingster Straße Ost,Polygon,Zingster Straße Ost,Neu-Hohenschönhausen Süd,Hohenschönhausen Nord,Lichtenberg,2006-06-14T00:00:00,6645.25290716531,1975687.34500364
+394,re_planungsraum.11010309,11010309,Zingster Straße West,Polygon,Zingster Straße West,Neu-Hohenschönhausen Süd,Hohenschönhausen Nord,Lichtenberg,2006-06-14T00:00:00,7584.78673869593,2440237.57664294
+395,re_planungsraum.11010310,11010310,Mühlengrund,Polygon,Mühlengrund,Neu-Hohenschönhausen Süd,Hohenschönhausen Nord,Lichtenberg,2006-06-14T00:00:00,7320.38097942567,1905638.19881147
+396,re_planungsraum.11020411,11020411,Malchower Weg,Polygon,Malchower Weg,Alt-Hohenschönhausen Nord,Hohenschönhausen Süd,Lichtenberg,2006-06-14T00:00:00,12063.08248376,6033743.89677458
+397,re_planungsraum.11020412,11020412,Hauptstraße,Polygon,Hauptstraße,Alt-Hohenschönhausen Nord,Hohenschönhausen Süd,Lichtenberg,2006-06-14T00:00:00,13641.5179733713,6801568.22146943
+398,re_planungsraum.11020513,11020513,Orankesee,Polygon,Orankesee,Alt-Hohenschönhausen Süd,Hohenschönhausen Süd,Lichtenberg,2006-06-14T00:00:00,10408.5796590549,5228216.99231268
+399,re_planungsraum.11020514,11020514,Große-Leege-Straße,Polygon,Große-Leege-Straße,Alt-Hohenschönhausen Süd,Hohenschönhausen Süd,Lichtenberg,2006-06-14T00:00:00,7459.81617367816,1855209.10038758
+400,re_planungsraum.11020515,11020515,Landsberger Allee,Polygon,Landsberger Allee,Alt-Hohenschönhausen Süd,Hohenschönhausen Süd,Lichtenberg,2006-06-14T00:00:00,9244.86647397747,2537447.76191197
+401,re_planungsraum.11020516,11020516,Weiße Taube,Polygon,Weiße Taube,Alt-Hohenschönhausen Süd,Hohenschönhausen Süd,Lichtenberg,2006-06-14T00:00:00,8308.85275678271,2791818.81658868
+402,re_planungsraum.11030617,11030617,Hohenschönhausener Straße,Polygon,Hohenschönhausener Straße,Fennpfuhl,Lichtenberg Nord,Lichtenberg,2006-06-14T00:00:00,5824.44956999923,1125349.6381199
+403,re_planungsraum.11030618,11030618,Fennpfuhl West,Polygon,Fennpfuhl West,Fennpfuhl,Lichtenberg Nord,Lichtenberg,2006-06-14T00:00:00,7522.92577818765,3151333.90363946
+404,re_planungsraum.11030619,11030619,Fennpfuhl Ost,Polygon,Fennpfuhl Ost,Fennpfuhl,Lichtenberg Nord,Lichtenberg,2006-06-14T00:00:00,5721.96311991798,1501981.02518847
+405,re_planungsraum.11030720,11030720,Herzbergstraße,Polygon,Herzbergstraße,Alt-Lichtenberg,Lichtenberg Nord,Lichtenberg,2006-06-14T00:00:00,15058.1242884711,10590366.6052303
+406,re_planungsraum.11030721,11030721,Rüdigerstraße,Polygon,Rüdigerstraße,Alt-Lichtenberg,Lichtenberg Nord,Lichtenberg,2006-06-14T00:00:00,13693.5949834291,6536363.12348607
+407,re_planungsraum.11030824,11030824,Frankfurter Allee Süd,Polygon,Frankfurter Allee Süd,Frankfurter Allee Süd,Lichtenberg Nord,Lichtenberg,2006-08-04T00:00:00,8403.39531776502,2839388.49384121
+408,re_planungsraum.11040925,11040925,Victoriastadt,Polygon,Victoriastadt,Neu-Lichtenberg,Lichtenberg Mitte,Lichtenberg,2006-06-14T00:00:00,5756.49909438166,1061878.83384634
+409,re_planungsraum.11040926,11040926,Weitlingstraße,Polygon,Weitlingstraße,Neu-Lichtenberg,Lichtenberg Mitte,Lichtenberg,2006-06-14T00:00:00,14180.4584208528,6040555.96207173
+410,re_planungsraum.11041022,11041022,Rosenfelder Ring,Polygon,Rosenfelder Ring,Friedrichsfelde Nord,Lichtenberg Mitte,Lichtenberg,2006-06-14T00:00:00,6086.48404034339,1513193.63291555
+411,re_planungsraum.11041023,11041023,Gensinger Straße,Polygon,Gensinger Straße,Friedrichsfelde Nord,Lichtenberg Mitte,Lichtenberg,2006-06-14T00:00:00,5844.35306258931,1213833.7577853
+412,re_planungsraum.11041027,11041027,Tierpark,Polygon,Tierpark,Friedrichsfelde Nord,Lichtenberg Mitte,Lichtenberg,2006-06-14T00:00:00,9802.27347832468,4672069.73902953
+413,re_planungsraum.11041128,11041128,Sewanstraße,Polygon,Sewanstraße,Friedrichsfelde Süd,Lichtenberg Mitte,Lichtenberg,2006-06-14T00:00:00,10325.968616301,5968694.71988981
+414,re_planungsraum.11051229,11051229,Rummelsburg,Polygon,Rummelsburg,Rummelsburger Bucht,Lichtenberg Süd,Lichtenberg,2006-06-14T00:00:00,14159.8188477311,6418598.07328922
+415,re_planungsraum.11051330,11051330,Karlshorst West,Polygon,Karlshorst West,Karlshorst,Lichtenberg Süd,Lichtenberg,2009-08-20T00:00:00,7664.6475662101,2678213.79512753
+416,re_planungsraum.11051331,11051331,Karlshorst Nord,Polygon,Karlshorst Nord,Karlshorst,Lichtenberg Süd,Lichtenberg,2006-06-14T00:00:00,13183.7392119229,8874525.63001918
+417,re_planungsraum.11051332,11051332,Karlshorst Süd,Polygon,Karlshorst Süd,Karlshorst,Lichtenberg Süd,Lichtenberg,2006-06-14T00:00:00,11940.0696432968,6180528.04359487
+418,re_planungsraum.12103115,12103115,Breitkopfbecken,Polygon,Breitkopfbecken,Ost 1 - Reginhardstr.,Reinickendorf Ost,Reinickendorf,2009-02-19T00:00:00,5778.66832573238,1945281.83734461
+419,re_planungsraum.12103116,12103116,Hausotterplatz,Polygon,Hausotterplatz,Ost 1 - Reginhardstr.,Reinickendorf Ost,Reinickendorf,2009-02-19T00:00:00,8445.84948767768,2188979.94519388
+420,re_planungsraum.12103117,12103117,Letteplatz,Polygon,Letteplatz,Ost 1 - Reginhardstr.,Reinickendorf Ost,Reinickendorf,2009-02-19T00:00:00,6377.00716357578,2108571.33613128
+421,re_planungsraum.12103218,12103218,Teichstraße,Polygon,Teichstraße,Ost 2 Alt-Reinickendorf,Reinickendorf Ost,Reinickendorf,2009-02-19T00:00:00,20056.2331462306,9073877.24258665
+422,re_planungsraum.12103219,12103219,Schäfersee,Polygon,Schäfersee,Ost 2 Alt-Reinickendorf,Reinickendorf Ost,Reinickendorf,2009-02-19T00:00:00,9853.74507130959,3014698.75439146
+423,re_planungsraum.12103220,12103220,Humboldtstraße,Polygon,Humboldtstraße,Ost 2 Alt-Reinickendorf,Reinickendorf Ost,Reinickendorf,2009-02-19T00:00:00,6725.38664838093,2103029.7102308
+424,re_planungsraum.12214125,12214125,Waldidyll/Flughafensee,Polygon,Waldidyll/Flughafensee,West 1 Tegel-Süd/Flughafensee,Tegel,Reinickendorf,2006-08-04T00:00:00,31959.6088313753,33148135.3184166
+425,re_planungsraum.12214126,12214126,Tegel Süd,Polygon,Tegel Süd,West 1 Tegel-Süd/Flughafensee,Tegel,Reinickendorf,2006-08-04T00:00:00,10352.6929321095,2050613.99043762
+426,re_planungsraum.12214421,12214421,Reinickes Hof,Polygon,Reinickes Hof,West 4 - Auguste-Viktoria-Allee,Tegel,Reinickendorf,2009-02-19T00:00:00,6255.89614193191,1440058.80078982
+427,re_planungsraum.12214422,12214422,Klixstraße,Polygon,Klixstraße,West 4 - Auguste-Viktoria-Allee,Tegel,Reinickendorf,2009-02-19T00:00:00,6666.55188338379,2216165.25168362
+428,re_planungsraum.12214423,12214423,Mellerbogen,Polygon,Mellerbogen,West 4 - Auguste-Viktoria-Allee,Tegel,Reinickendorf,2009-02-19T00:00:00,5536.55565656055,1426189.90380208
+429,re_planungsraum.12214424,12214424,Scharnweberstraße,Polygon,Scharnweberstraße,West 4 - Auguste-Viktoria-Allee,Tegel,Reinickendorf,2009-02-19T00:00:00,7827.867741921,2807707.01629372
+430,re_planungsraum.12214527,12214527,Alt-Tegel,Polygon,Alt-Tegel,West 5 - Tegel/Tegeler Forst,Tegel,Reinickendorf,2009-02-19T00:00:00,15322.8973611087,6470768.58862237
+431,re_planungsraum.12214528,12214528,Tegeler Forst,Polygon,Tegeler Forst,West 5 - Tegel/Tegeler Forst,Tegel,Reinickendorf,2009-02-19T00:00:00,46872.4937374094,43246498.9427416
+432,re_planungsraum.12224229,12224229,Konradshöhe/Tegelort,Polygon,Konradshöhe/Tegelort,West 2 - Heiligensee/Konradshöhe,Heiligensee/Konradshöhe,Reinickendorf,2006-08-04T00:00:00,15298.3717954043,5917179.09080999
+433,re_planungsraum.12224230,12224230,Heiligensee,Polygon,Heiligensee,West 2 - Heiligensee/Konradshöhe,Heiligensee/Konradshöhe,Reinickendorf,2006-08-04T00:00:00,26422.9224367726,28933431.4981625
+434,re_planungsraum.12231101,12231101,Hermsdorf,Polygon,Hermsdorf,Nord 1 - Frohnau/Hermsdorf,Frohnau/Hermsdorf,Reinickendorf,2006-08-04T00:00:00,22034.5554116711,16404549.7131838
+435,re_planungsraum.12231102,12231102,Frohnau,Polygon,Frohnau,Nord 1 - Frohnau/Hermsdorf,Frohnau/Hermsdorf,Reinickendorf,2006-08-04T00:00:00,24514.9437561429,21253364.8042726
+436,re_planungsraum.12301203,12301203,Wittenau Süd,Polygon,Wittenau Süd,Nord 2 - Waidmannslust/Wittenau/Lübars,Waidmannslust,Reinickendorf,2006-08-04T00:00:00,12008.4795058711,6922505.09686869
+437,re_planungsraum.12301204,12301204,Wittenau Nord,Polygon,Wittenau Nord,Nord 2 - Waidmannslust/Wittenau/Lübars,Waidmannslust,Reinickendorf,2006-08-04T00:00:00,13175.7350921948,6749025.59291937
+438,re_planungsraum.12301205,12301205,Waidmannslust,Polygon,Waidmannslust,Nord 2 - Waidmannslust/Wittenau/Lübars,Waidmannslust,Reinickendorf,2006-08-04T00:00:00,13377.9246249436,4691632.02656104
+439,re_planungsraum.12301206,12301206,Lübars,Polygon,Lübars,Nord 2 - Waidmannslust/Wittenau/Lübars,Waidmannslust,Reinickendorf,2006-08-04T00:00:00,16597.2175974757,13566764.2318565
+440,re_planungsraum.12302107,12302107,Schorfheidestraße,Polygon,Schorfheidestraße,MV 1 - Märkisches Viertel,Waidmannslust,Reinickendorf,2009-02-19T00:00:00,6952.53171956447,1537837.51364766
+441,re_planungsraum.12302108,12302108,Märkisches Zentrum,Polygon,Märkisches Zentrum,MV 1 - Märkisches Viertel,Waidmannslust,Reinickendorf,2009-02-19T00:00:00,9651.50137174406,3078608.36142505
+442,re_planungsraum.12302109,12302109,Treuenbrietzener Straße,Polygon,Treuenbrietzener Straße,MV 1 - Märkisches Viertel,Waidmannslust,Reinickendorf,2009-02-19T00:00:00,7133.34772703658,2485309.25720361
+443,re_planungsraum.12302110,12302110,Dannenwalder Weg,Polygon,Dannenwalder Weg,MV 1 - Märkisches Viertel,Waidmannslust,Reinickendorf,2009-02-19T00:00:00,9414.67865876036,1416864.8952817
+444,re_planungsraum.12302211,12302211,Lübarser Straße,Polygon,Lübarser Straße,MV 2 - Rollbergesiedlung,Waidmannslust,Reinickendorf,2009-02-19T00:00:00,8833.07186166036,3069274.82892173
+445,re_planungsraum.12302212,12302212,Rollbergesiedlung,Polygon,Rollbergesiedlung,MV 2 - Rollbergesiedlung,Waidmannslust,Reinickendorf,2009-02-19T00:00:00,5659.94402156014,1357084.41217567
+446,re_planungsraum.12304313,12304313,Borsigwalde,Polygon,Borsigwalde,West 3 - Borsigwalde/Freie Scholle,Waidmannslust,Reinickendorf,2006-08-04T00:00:00,10371.7871560795,5001830.90137716
+447,re_planungsraum.12304314,12304314,Ziekowstraße/Freie Scholle,Polygon,Ziekowstraße/Freie Scholle,West 3 - Borsigwalde/Freie Scholle,Waidmannslust,Reinickendorf,2006-08-04T00:00:00,12649.2823497905,6028511.89432887
